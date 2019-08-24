@@ -1,0 +1,40 @@
+{
+  "name": "wsol",
+  "description": "Whos on leave ",
+  "version": "0.0.0",
+  "author": "Thet Paing Tun @thetpaingtun",
+  "bin": {
+    "wsol": "./bin/run"
+  },
+  "bugs": "https://github.com/thetpaingtun//issues",
+  "dependencies": {
+    "@oclif/command": "^1.5.18",
+    "@oclif/config": "^1.13.3",
+    "@oclif/plugin-help": "^2.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-oclif": "^3.1.0"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "files": [
+    "/bin",
+    "/src"
+  ],
+  "homepage": "https://github.com/thetpaingtun/",
+  "keywords": [
+    "oclif"
+  ],
+  "license": "MIT",
+  "main": "src/index.js",
+  "oclif": {
+    "bin": "wsol"
+  },
+  "repository": "thetpaingtun/",
+  "scripts": {
+    "posttest": "eslint .",
+    "test": "echo NO TESTS"
+  }
+}
