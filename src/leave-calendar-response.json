@@ -1,0 +1,4419 @@
+[
+	{
+		"color": "red",
+		"start": "2019-10-28",
+		"end": "2019-10-28 23:00:00",
+		"id": "137ba500-a1ca1917-37dea040-832c0a0c",
+		"title": "Deepavali (Replacement)"
+	},
+	{
+		"color": "red",
+		"start": "2019-09-02",
+		"end": "2019-09-02 23:00:00",
+		"id": "14efb000-a1ca1917-37dea040-167abd70",
+		"title": "Awal Muharram (Replacement)"
+	},
+	{
+		"color": "red",
+		"start": "2017-04-24",
+		"end": "2017-04-24 23:00:00",
+		"id": "325528ff-a1ca1917-138f7bab-48537cd8",
+		"title": "King's Installation"
+	},
+	{
+		"color": "red",
+		"start": "2015-01-01",
+		"end": "2015-01-01 23:00:00",
+		"id": "94dd161e-644dae58-48f10f0f-3850b552",
+		"title": "New Year's Day"
+	},
+	{
+		"color": "red",
+		"start": "2015-01-03",
+		"end": "2015-01-03 23:00:00",
+		"id": "9690818b-644dae58-48f10f0f-3a4a6a70",
+		"title": "Prophet Muhammad's Birthday"
+	},
+	{
+		"color": "red",
+		"start": "2015-02-03",
+		"end": "2015-02-03 23:00:00",
+		"id": "96910e72-644dae58-48f10f0f-7b33eb46",
+		"title": "Thaipusam"
+	},
+	{
+		"color": "red",
+		"start": "2015-02-19",
+		"end": "2015-02-19 23:00:00",
+		"id": "96915857-644dae58-48f10f0f-8f25a9c5",
+		"title": "Chinese New Year"
+	},
+	{
+		"color": "red",
+		"start": "2015-02-20",
+		"end": "2015-02-20 23:00:00",
+		"id": "969198ee-644dae58-48f10f0f-5c6184f0",
+		"title": "Chinese New Year"
+	},
+	{
+		"color": "red",
+		"start": "2015-05-01",
+		"end": "2015-05-01 23:00:00",
+		"id": "9691d186-644dae58-48f10f0f-b08ee021",
+		"title": "Labour Day"
+	},
+	{
+		"color": "red",
+		"start": "2015-05-03",
+		"end": "2015-05-03 23:00:00",
+		"id": "9691fedc-644dae58-48f10f0f-46a13200",
+		"title": "Wesak Day"
+	},
+	{
+		"color": "red",
+		"start": "2015-05-04",
+		"end": "2015-05-04 23:00:00",
+		"id": "96922bd5-644dae58-48f10f0f-e464d98b",
+		"title": "Wesak Day (Replacement)"
+	},
+	{
+		"color": "red",
+		"start": "2015-06-06",
+		"end": "2015-06-06 23:00:00",
+		"id": "96926f69-644dae58-48f10f0f-1cabde1e",
+		"title": "Birthday of SPB Yang di Pertuan Agong"
+	},
+	{
+		"color": "red",
+		"start": "2015-07-04",
+		"end": "2015-07-04 23:00:00",
+		"id": "9692aadf-644dae58-48f10f0f-378ef1f6",
+		"title": "Nuzul Al-Quran"
+	},
+	{
+		"color": "red",
+		"start": "2015-07-17",
+		"end": "2015-07-17 23:00:00",
+		"id": "9692f210-644dae58-48f10f0f-fc6523cc",
+		"title": "Hari Raya Aidil Fitri"
+	},
+	{
+		"color": "red",
+		"start": "2015-07-18",
+		"end": "2015-07-18 23:00:00",
+		"id": "969323aa-644dae58-48f10f0f-30770afc",
+		"title": "Hari Raya Aidil Fitri"
+	},
+	{
+		"color": "red",
+		"start": "2015-08-31",
+		"end": "2015-08-31 23:00:00",
+		"id": "96935415-644dae58-48f10f0f-1a8464d4",
+		"title": "National Day"
+	},
+	{
+		"color": "red",
+		"start": "2015-09-16",
+		"end": "2015-09-16 23:00:00",
+		"id": "9693a3f7-644dae58-48f10f0f-d6b7d6b5",
+		"title": "Malaysia Day"
+	},
+	{
+		"color": "red",
+		"start": "2015-09-24",
+		"end": "2015-09-24 23:00:00",
+		"id": "9693f772-644dae58-48f10f0f-67e021ed",
+		"title": "Hari Raya Haji"
+	},
+	{
+		"color": "red",
+		"start": "2015-10-14",
+		"end": "2015-10-14 23:00:00",
+		"id": "96942d00-644dae58-48f10f0f-18d21073",
+		"title": "Awal Muharram"
+	},
+	{
+		"color": "red",
+		"start": "2015-11-10",
+		"end": "2015-11-10 23:00:00",
+		"id": "969461cf-644dae58-48f10f0f-671d276c",
+		"title": "Deepavali"
+	},
+	{
+		"color": "red",
+		"start": "2015-12-11",
+		"end": "2015-12-11 23:00:00",
+		"id": "96949e79-644dae58-48f10f0f-9ee3e71a",
+		"title": "Sultan of Selangor Birthday"
+	},
+	{
+		"color": "red",
+		"start": "2015-12-24",
+		"end": "2015-12-24 23:00:00",
+		"id": "9694db95-644dae58-48f10f0f-3f031b46",
+		"title": "Prophet Muhammad's Birthday"
+	},
+	{
+		"color": "red",
+		"start": "2015-12-25",
+		"end": "2015-12-25 23:00:00",
+		"id": "969515de-644dae58-48f10f0f-b17362c0",
+		"title": "Christmas Day"
+	},
+	{
+		"color": "red",
+		"start": "2019-05-20",
+		"end": "2019-05-20 23:00:00",
+		"id": "9b77b000-a1ca1917-37dea040-c7854257",
+		"title": "Wesak Day (replacement)"
+	},
+	{
+		"color": "red",
+		"start": "2018-01-01",
+		"end": "2018-01-01 23:00:00",
+		"id": "b4a30477-a1ca1917-3ce6dfe6-fd91f287",
+		"title": "New Year's Day"
+	},
+	{
+		"color": "red",
+		"start": "2018-01-31",
+		"end": "2018-01-31 23:00:00",
+		"id": "b4a32bb0-a1ca1917-3ce6dfe6-5196b9ef",
+		"title": "Thaipusam"
+	},
+	{
+		"color": "red",
+		"start": "2018-02-16",
+		"end": "2018-02-16 23:00:00",
+		"id": "b4a369d7-a1ca1917-3ce6dfe6-c06f421f",
+		"title": "Chinese New Year"
+	},
+	{
+		"color": "red",
+		"start": "2018-05-01",
+		"end": "2018-05-01 23:00:00",
+		"id": "b4a3ab73-a1ca1917-3ce6dfe6-a5594860",
+		"title": "Labour Day"
+	},
+	{
+		"color": "red",
+		"start": "2018-05-29",
+		"end": "2018-05-29 23:00:00",
+		"id": "b4a3e6e7-a1ca1917-3ce6dfe6-e84534bc",
+		"title": "Wesak Day"
+	},
+	{
+		"color": "red",
+		"start": "2018-06-15",
+		"end": "2018-06-15 23:00:00",
+		"id": "b4a42428-a1ca1917-3ce6dfe6-976d8e36",
+		"title": "Hari Raya Aidilfitri"
+	},
+	{
+		"color": "red",
+		"start": "2018-08-22",
+		"end": "2018-08-22 23:00:00",
+		"id": "b4a46d56-a1ca1917-3ce6dfe6-cf63d16d",
+		"title": "Hari Raya Haji"
+	},
+	{
+		"color": "red",
+		"start": "2018-08-31",
+		"end": "2018-08-31 23:00:00",
+		"id": "b4a4af1c-a1ca1917-3ce6dfe6-ed112101",
+		"title": "Independence Day"
+	},
+	{
+		"color": "red",
+		"start": "2018-09-10",
+		"end": "2018-09-10 23:00:00",
+		"id": "b4a4f391-a1ca1917-3ce6dfe6-ce157715",
+		"title": "Yang Dipertuan Agong's Birthday (replacement)"
+	},
+	{
+		"color": "red",
+		"start": "2018-09-11",
+		"end": "2018-09-11 23:00:00",
+		"id": "b4a53e4b-a1ca1917-3ce6dfe6-a22e97d6",
+		"title": "Awal Muharram"
+	},
+	{
+		"color": "red",
+		"start": "2018-09-17",
+		"end": "2018-09-17 23:00:00",
+		"id": "b4a57d68-a1ca1917-3ce6dfe6-75026cbe",
+		"title": "Malaysia Day (replacement)"
+	},
+	{
+		"color": "red",
+		"start": "2018-11-06",
+		"end": "2018-11-06 23:00:00",
+		"id": "b4a5ae61-a1ca1917-3ce6dfe6-b8c9bd61",
+		"title": "Deepavali"
+	},
+	{
+		"color": "red",
+		"start": "2018-11-20",
+		"end": "2018-11-20 23:00:00",
+		"id": "b4a5e11f-a1ca1917-3ce6dfe6-154619aa",
+		"title": "Prophet Muhammad's Birthday"
+	},
+	{
+		"color": "red",
+		"start": "2018-12-11",
+		"end": "2018-12-11 23:00:00",
+		"id": "b4a6136d-a1ca1917-3ce6dfe6-1304916a",
+		"title": "Birthday of the Sultan of Selangor"
+	},
+	{
+		"color": "red",
+		"start": "2018-12-25",
+		"end": "2018-12-25 23:00:00",
+		"id": "b4a647e0-a1ca1917-3ce6dfe6-564fe8df",
+		"title": "Christmas"
+	},
+	{
+		"color": "red",
+		"start": "2019-12-25",
+		"end": "2019-12-25 23:00:00",
+		"id": "b4a647e0-a1ca1917-3ce6dfe6-564fe8df1",
+		"title": "Christmas"
+	},
+	{
+		"color": "red",
+		"start": "2019-06-06",
+		"end": "2019-06-06 23:00:00",
+		"id": "b4a647e0-a1ca1917-3ce6dfe6-564fe8df10",
+		"title": "Hari Raya Aidilfitri"
+	},
+	{
+		"color": "red",
+		"start": "2019-08-31",
+		"end": "2019-08-31 23:00:00",
+		"id": "b4a647e0-a1ca1917-3ce6dfe6-564fe8df12",
+		"title": "National Day"
+	},
+	{
+		"color": "red",
+		"start": "2019-08-11",
+		"end": "2019-08-11 23:00:00",
+		"id": "b4a647e0-a1ca1917-3ce6dfe6-564fe8df121",
+		"title": "Hari Raya Haji"
+	},
+	{
+		"color": "red",
+		"start": "2019-09-01",
+		"end": "2019-09-01 23:00:00",
+		"id": "b4a647e0-a1ca1917-3ce6dfe6-564fe8df13",
+		"title": "Awal Muharram (Maal Hijrah)"
+	},
+	{
+		"color": "red",
+		"start": "2019-09-09",
+		"end": "2019-09-09 23:00:00",
+		"id": "b4a647e0-a1ca1917-3ce6dfe6-564fe8df14",
+		"title": "Yang Dipertuan Agong's Birthday"
+	},
+	{
+		"color": "red",
+		"start": "2019-09-16",
+		"end": "2019-09-16 23:00:00",
+		"id": "b4a647e0-a1ca1917-3ce6dfe6-564fe8df15",
+		"title": "Malaysia Day"
+	},
+	{
+		"color": "red",
+		"start": "2019-10-27",
+		"end": "2019-10-27 23:00:00",
+		"id": "b4a647e0-a1ca1917-3ce6dfe6-564fe8df16",
+		"title": "Deepavali"
+	},
+	{
+		"color": "red",
+		"start": "2019-11-09",
+		"end": "2019-11-09 23:00:00",
+		"id": "b4a647e0-a1ca1917-3ce6dfe6-564fe8df17",
+		"title": "Prophet Muhammad's Birthday"
+	},
+	{
+		"color": "red",
+		"start": "2019-12-11",
+		"end": "2019-12-11 23:00:00",
+		"id": "b4a647e0-a1ca1917-3ce6dfe6-564fe8df18",
+		"title": "Sultan of Selangor's Birthday"
+	},
+	{
+		"color": "red",
+		"start": "2019-01-01",
+		"end": "2019-01-01 23:00:00",
+		"id": "b4a647e0-a1ca1917-3ce6dfe6-564fe8df2",
+		"title": "New Year"
+	},
+	{
+		"color": "red",
+		"start": "2019-01-21",
+		"end": "2019-01-21 23:00:00",
+		"id": "b4a647e0-a1ca1917-3ce6dfe6-564fe8df3",
+		"title": "Thaipusam"
+	},
+	{
+		"color": "red",
+		"start": "2019-02-05",
+		"end": "2019-02-05 23:00:00",
+		"id": "b4a647e0-a1ca1917-3ce6dfe6-564fe8df4",
+		"title": "Chinese New Year"
+	},
+	{
+		"color": "red",
+		"start": "2019-02-06",
+		"end": "2019-02-06 23:00:00",
+		"id": "b4a647e0-a1ca1917-3ce6dfe6-564fe8df5",
+		"title": "Chinese New Year(2nd Day)"
+	},
+	{
+		"color": "red",
+		"start": "2019-05-01",
+		"end": "2019-05-01 23:00:00",
+		"id": "b4a647e0-a1ca1917-3ce6dfe6-564fe8df6",
+		"title": "Labour Day"
+	},
+	{
+		"color": "red",
+		"start": "2019-05-19",
+		"end": "2019-05-19 23:00:00",
+		"id": "b4a647e0-a1ca1917-3ce6dfe6-564fe8df7",
+		"title": "Wesak Day"
+	},
+	{
+		"color": "red",
+		"start": "2019-05-22",
+		"end": "2019-05-22 23:00:00",
+		"id": "b4a647e0-a1ca1917-3ce6dfe6-564fe8df8",
+		"title": "Nuzul Al-Quran"
+	},
+	{
+		"color": "red",
+		"start": "2019-06-05",
+		"end": "2019-06-05 23:00:00",
+		"id": "b4a647e0-a1ca1917-3ce6dfe6-564fe8df9",
+		"title": "Hari Raya Aidilfitri"
+	},
+	{
+		"color": "red",
+		"start": "2019-07-30",
+		"end": "2019-07-30 23:00:00",
+		"id": "b73e4f40-a1ca1917-37dea040-dfb1bdaf",
+		"title": "King's coronation"
+	},
+	{
+		"color": "red",
+		"start": "2016-01-01",
+		"end": "2016-01-01 23:00:00",
+		"id": "cdff2934-a1ca1917-23233ed2-a7e4a401",
+		"title": "New Year's Day"
+	},
+	{
+		"color": "red",
+		"start": "2016-01-25",
+		"end": "2016-01-25 23:00:00",
+		"id": "cdff5a21-a1ca1917-23233ed2-d176dbfd",
+		"title": "Thaipusam"
+	},
+	{
+		"color": "red",
+		"start": "2016-02-08",
+		"end": "2016-02-08 23:00:00",
+		"id": "cdff8b80-a1ca1917-23233ed2-cc592a52",
+		"title": "Chinese New Year"
+	},
+	{
+		"color": "red",
+		"start": "2016-02-09",
+		"end": "2016-02-09 23:00:00",
+		"id": "cdffe1dd-a1ca1917-23233ed2-7c871bac",
+		"title": "Chinese New Year"
+	},
+	{
+		"color": "red",
+		"start": "2016-05-02",
+		"end": "2016-05-02 23:00:00",
+		"id": "ce001f54-a1ca1917-23233ed2-814d9d37",
+		"title": "Labour Day (Replacement)"
+	},
+	{
+		"color": "red",
+		"start": "2016-05-21",
+		"end": "2016-05-21 23:00:00",
+		"id": "ce005452-a1ca1917-23233ed2-15fe22fd",
+		"title": "Wesak Day"
+	},
+	{
+		"color": "red",
+		"start": "2016-06-22",
+		"end": "2016-06-22 23:00:00",
+		"id": "ce008bfe-a1ca1917-23233ed2-bf17fb53",
+		"title": "Nuzul Al-Quran"
+	},
+	{
+		"color": "red",
+		"start": "2016-07-06",
+		"end": "2016-07-06 23:00:00",
+		"id": "ce00c9e9-a1ca1917-23233ed2-6d0a343b",
+		"title": "Hari Raya Aidilfitri"
+	},
+	{
+		"color": "red",
+		"start": "2016-07-07",
+		"end": "2016-07-07 23:00:00",
+		"id": "ce0106b9-a1ca1917-23233ed2-53285132",
+		"title": "Hari Raya Aidilfitri"
+	},
+	{
+		"color": "red",
+		"start": "2016-08-31",
+		"end": "2016-08-31 23:00:00",
+		"id": "ce0145f7-a1ca1917-23233ed2-fb47cc35",
+		"title": "Independence Day"
+	},
+	{
+		"color": "red",
+		"start": "2016-09-12",
+		"end": "2016-09-12 23:00:00",
+		"id": "ce018350-a1ca1917-23233ed2-afdcd79b",
+		"title": "Hari Raya Haji"
+	},
+	{
+		"color": "red",
+		"start": "2016-09-16",
+		"end": "2016-09-16 23:00:00",
+		"id": "ce01e67d-a1ca1917-23233ed2-d94020f2",
+		"title": "Malaysia Day"
+	},
+	{
+		"color": "red",
+		"start": "2016-10-03",
+		"end": "2016-10-03 23:00:00",
+		"id": "ce024e0b-a1ca1917-23233ed2-7f9de165",
+		"title": "Awal Muharram"
+	},
+	{
+		"color": "red",
+		"start": "2016-10-29",
+		"end": "2016-10-29 23:00:00",
+		"id": "ce028765-a1ca1917-23233ed2-12ba1334",
+		"title": "Deepavali"
+	},
+	{
+		"color": "red",
+		"start": "2016-12-12",
+		"end": "2016-12-12 23:00:00",
+		"id": "ce02dde7-a1ca1917-23233ed2-2e68723e",
+		"title": "Prophet Muhammad's Birthday"
+	},
+	{
+		"color": "red",
+		"start": "2016-12-26",
+		"end": "2016-12-26 23:00:00",
+		"id": "ce034c3f-a1ca1917-23233ed2-833861b8",
+		"title": "Christmas (Replacement)"
+	},
+	{
+		"color": "red",
+		"start": "2016-12-13",
+		"end": "2016-12-13 23:00:00",
+		"id": "d31d123f-a1ca1917-3ccf0399-f2a39dd0",
+		"title": "Birthday of the Sultan of Selangor (Replacement)"
+	},
+	{
+		"color": "red",
+		"start": "2017-01-02",
+		"end": "2017-01-02 23:00:00",
+		"id": "d321a07f-a1ca1917-3ccf0399-459820d3",
+		"title": "New Year's Day (Replacement)"
+	},
+	{
+		"color": "red",
+		"start": "2017-01-28",
+		"end": "2017-01-28 23:00:00",
+		"id": "d3224ede-a1ca1917-3ccf0399-7aaac232",
+		"title": "Chinese New Year"
+	},
+	{
+		"color": "red",
+		"start": "2017-01-29",
+		"end": "2017-01-29 23:00:00",
+		"id": "d322739b-a1ca1917-3ccf0399-d23f6058",
+		"title": "Chinese New Year"
+	},
+	{
+		"color": "red",
+		"start": "2017-01-30",
+		"end": "2017-01-30 23:00:00",
+		"id": "d3229e05-a1ca1917-3ccf0399-23a88ae9",
+		"title": "Chinese New Year (Replacement)"
+	},
+	{
+		"color": "red",
+		"start": "2017-02-09",
+		"end": "2017-02-09 23:00:00",
+		"id": "d323154a-a1ca1917-3ccf0399-7f87b2a5",
+		"title": "Thaipusam"
+	},
+	{
+		"color": "red",
+		"start": "2017-05-01",
+		"end": "2017-05-01 23:00:00",
+		"id": "d3238ede-a1ca1917-3ccf0399-f7020db1",
+		"title": "Labour Day"
+	},
+	{
+		"color": "red",
+		"start": "2017-05-10",
+		"end": "2017-05-10 23:00:00",
+		"id": "d32413f3-a1ca1917-3ccf0399-5fbe230d",
+		"title": "Wesak Day"
+	},
+	{
+		"color": "red",
+		"start": "2017-06-03",
+		"end": "2017-06-03 23:00:00",
+		"id": "d324ff45-a1ca1917-3ccf0399-e91d0413",
+		"title": "Birthday of SPB Yang di Pertuan Agong"
+	},
+	{
+		"color": "red",
+		"start": "2017-06-12",
+		"end": "2017-06-12 23:00:00",
+		"id": "d3257ec6-a1ca1917-3ccf0399-41b2cb50",
+		"title": "Nuzul Al-Quran"
+	},
+	{
+		"color": "red",
+		"start": "2017-06-26",
+		"end": "2017-06-26 23:00:00",
+		"id": "d325e497-a1ca1917-3ccf0399-1985c54f",
+		"title": "Hari Raya Aidilfitri"
+	},
+	{
+		"color": "red",
+		"start": "2017-06-27",
+		"end": "2017-06-27 23:00:00",
+		"id": "d3260942-a1ca1917-3ccf0399-623608f6",
+		"title": "Hari Raya Aidilfitri"
+	},
+	{
+		"color": "red",
+		"start": "2017-08-31",
+		"end": "2017-08-31 23:00:00",
+		"id": "d3265bdd-a1ca1917-3ccf0399-20421b81",
+		"title": "National Day"
+	},
+	{
+		"color": "red",
+		"start": "2017-09-01",
+		"end": "2017-09-01 23:00:00",
+		"id": "d326ad4e-a1ca1917-3ccf0399-31ab578e",
+		"title": "Hari Raya Haji"
+	},
+	{
+		"color": "red",
+		"start": "2017-09-16",
+		"end": "2017-09-16 23:00:00",
+		"id": "d3271e20-a1ca1917-3ccf0399-2979e9d5",
+		"title": "Malaysia Day"
+	},
+	{
+		"color": "red",
+		"start": "2017-09-22",
+		"end": "2017-09-22 23:00:00",
+		"id": "d3276c03-a1ca1917-3ccf0399-af364480",
+		"title": "Awal Muharam"
+	},
+	{
+		"color": "red",
+		"start": "2017-10-18",
+		"end": "2017-10-18 23:00:00",
+		"id": "d327d432-a1ca1917-3ccf0399-9dd90050",
+		"title": "Deepavali"
+	},
+	{
+		"color": "red",
+		"start": "2017-12-11",
+		"end": "2017-12-11 23:00:00",
+		"id": "d328a144-a1ca1917-3ccf0399-9687a89d",
+		"title": "Birthday of the Sultan of Selangor"
+	},
+	{
+		"color": "red",
+		"start": "2017-12-01",
+		"end": "2017-12-01 23:00:00",
+		"id": "d3294e6b-a1ca1917-3ccf0399-6ea37778",
+		"title": "Prophet Muhammad's Birthday"
+	},
+	{
+		"color": "red",
+		"start": "2017-12-25",
+		"end": "2017-12-25 23:00:00",
+		"id": "d329a60b-a1ca1917-3ccf0399-a0b3bcfd",
+		"title": "Christmas"
+	},
+	{
+		"color": "red",
+		"start": "2019-08-12",
+		"end": "2019-08-12 23:00:00",
+		"id": "efeb0000-a1ca1917-37dea040-d35103dc",
+		"title": "Hari Raya Haji (Replacement)"
+	},
+	{
+		"color": "green",
+		"start": "2015-02-18",
+		"end": "2015-02-23 23:00:00",
+		"id": "1121_innovEleave_leaveApplication",
+		"title": "Tien-Soon Law"
+	},
+	{
+		"color": "green",
+		"start": "2015-01-09",
+		"end": "2015-01-12 23:00:00",
+		"id": "1123_innovEleave_leaveApplication",
+		"title": "Yuen Kiat Cheong"
+	},
+	{
+		"color": "green",
+		"start": "2015-01-02",
+		"end": "2015-01-05 23:00:00",
+		"id": "1124_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2015-01-30",
+		"end": "2015-02-04 23:00:00",
+		"id": "1125_innovEleave_leaveApplication",
+		"title": "Yuen Kiat Cheong"
+	},
+	{
+		"color": "green",
+		"start": "2015-02-18",
+		"end": "2015-02-23 23:00:00",
+		"id": "1126_innovEleave_leaveApplication",
+		"title": "Yuen Kiat Cheong"
+	},
+	{
+		"color": "green",
+		"start": "2015-05-21",
+		"end": "2015-05-25 23:00:00",
+		"id": "1127_innovEleave_leaveApplication",
+		"title": "Yuen Kiat Cheong"
+	},
+	{
+		"color": "green",
+		"start": "2015-02-16",
+		"end": "2015-02-23 23:00:00",
+		"id": "1129_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2015-04-06",
+		"end": "2015-04-06 23:00:00",
+		"id": "1130_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2015-06-24",
+		"end": "2015-06-30 23:00:00",
+		"id": "1131_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2015-03-05",
+		"end": "2015-03-06 23:00:00",
+		"id": "1133_innovEleave_leaveApplication",
+		"title": "Kosh Sergani"
+	},
+	{
+		"color": "green",
+		"start": "2015-03-19",
+		"end": "2015-03-23 23:00:00",
+		"id": "1134_innovEleave_leaveApplication",
+		"title": "Kosh Sergani"
+	},
+	{
+		"color": "green",
+		"start": "2015-09-10",
+		"end": "2015-09-26 23:00:00",
+		"id": "1135_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2015-02-18",
+		"end": "2015-02-23 23:00:00",
+		"id": "1136_innovEleave_leaveApplication",
+		"title": "Kosh Sergani"
+	},
+	{
+		"color": "green",
+		"start": "2015-02-17",
+		"end": "2015-04-13 23:00:00",
+		"id": "1137_innovEleave_leaveApplication",
+		"title": "Yun Yie Goh"
+	},
+	{
+		"color": "green",
+		"start": "2015-08-24",
+		"end": "2015-08-28 23:00:00",
+		"id": "1138_innovEleave_leaveApplication",
+		"title": "George Lee"
+	},
+	{
+		"color": "green",
+		"start": "2015-05-27",
+		"end": "2015-05-29 23:00:00",
+		"id": "1139_innovEleave_leaveApplication",
+		"title": "George Lee"
+	},
+	{
+		"color": "green",
+		"start": "2015-04-20",
+		"end": "2015-04-20 23:00:00",
+		"id": "1140_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2015-05-15",
+		"end": "2015-05-15 23:00:00",
+		"id": "1156_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2015-05-29",
+		"end": "2015-05-29 23:00:00",
+		"id": "1163_innovEleave_leaveApplication",
+		"title": "Kosh Sergani"
+	},
+	{
+		"color": "green",
+		"start": "2015-06-15",
+		"end": "2015-06-15 23:00:00",
+		"id": "1188_innovEleave_leaveApplication",
+		"title": "Yun Yie Goh"
+	},
+	{
+		"color": "green",
+		"start": "2015-06-12",
+		"end": "2015-06-12 23:00:00",
+		"id": "1192_innovEleave_leaveApplication",
+		"title": "Yun Yie Goh"
+	},
+	{
+		"color": "green",
+		"start": "2015-06-12",
+		"end": "2015-06-12 23:00:00",
+		"id": "1193_innovEleave_leaveApplication",
+		"title": "Yuen Kiat Cheong"
+	},
+	{
+		"color": "green",
+		"start": "2015-06-19",
+		"end": "2015-06-19 23:00:00",
+		"id": "1197_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2015-02-18",
+		"end": "2015-06-22 23:00:00",
+		"id": "1198_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2015-02-27",
+		"end": "2015-02-27 23:00:00",
+		"id": "1199_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2015-06-22",
+		"end": "2015-06-22 23:00:00",
+		"id": "1211_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2015-07-13",
+		"end": "2015-07-16 23:00:00",
+		"id": "1223_innovEleave_leaveApplication",
+		"title": "Kosh Sergani"
+	},
+	{
+		"color": "green",
+		"start": "2015-07-07",
+		"end": "2015-07-07 23:00:00",
+		"id": "1229_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2015-07-20",
+		"end": "2015-07-21 23:00:00",
+		"id": "1233_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2015-07-16",
+		"end": "2015-07-16 23:00:00",
+		"id": "1301_innovEleave_leaveApplication",
+		"title": "Tien-Soon Law"
+	},
+	{
+		"color": "green",
+		"start": "2015-07-15",
+		"end": "2015-07-15 23:00:00",
+		"id": "1317_innovEleave_leaveApplication",
+		"title": "Yun Yie Goh"
+	},
+	{
+		"color": "green",
+		"start": "2015-08-05",
+		"end": "2015-08-05 23:00:00",
+		"id": "1320_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2015-08-28",
+		"end": "2015-08-28 23:00:00",
+		"id": "1322_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2015-08-25",
+		"end": "2015-08-25 23:00:00",
+		"id": "1327_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2015-10-12",
+		"end": "2015-10-16 23:00:00",
+		"id": "1330_innovEleave_leaveApplication",
+		"title": "Kun-Hung Sze"
+	},
+	{
+		"color": "green",
+		"start": "2015-08-28",
+		"end": "2015-08-28 23:00:00",
+		"id": "1338_innovEleave_leaveApplication",
+		"title": "Kosh Sergani"
+	},
+	{
+		"color": "green",
+		"start": "2015-09-07",
+		"end": "2015-09-08 23:00:00",
+		"id": "1341_innovEleave_leaveApplication",
+		"title": "Yun Yie Goh"
+	},
+	{
+		"color": "green",
+		"start": "2015-09-02",
+		"end": "2015-09-02 23:00:00",
+		"id": "1343_innovEleave_leaveApplication",
+		"title": "Kosh Sergani"
+	},
+	{
+		"color": "green",
+		"start": "2015-09-04",
+		"end": "2015-09-04 23:00:00",
+		"id": "1344_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2015-09-07",
+		"end": "2015-09-07 23:00:00",
+		"id": "1345_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2015-09-22",
+		"end": "2015-09-22 23:00:00",
+		"id": "1347_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2015-09-17",
+		"end": "2015-09-17 23:00:00",
+		"id": "1349_innovEleave_leaveApplication",
+		"title": "Kosh Sergani"
+	},
+	{
+		"color": "green",
+		"start": "2015-09-21",
+		"end": "2015-09-21 23:00:00",
+		"id": "1350_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2015-10-09",
+		"end": "2015-10-09 23:00:00",
+		"id": "1356_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2015-10-16",
+		"end": "2015-10-19 23:00:00",
+		"id": "1357_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2015-10-09",
+		"end": "2015-10-09 23:00:00",
+		"id": "1362_innovEleave_leaveApplication",
+		"title": "Kun-Hung Sze"
+	},
+	{
+		"color": "green",
+		"start": "2015-10-26",
+		"end": "2015-10-26 23:00:00",
+		"id": "1365_innovEleave_leaveApplication",
+		"title": "Yun Yie Goh"
+	},
+	{
+		"color": "green",
+		"start": "2015-10-20",
+		"end": "2015-10-20 23:00:00",
+		"id": "1369_innovEleave_leaveApplication",
+		"title": "Yun Yie Goh"
+	},
+	{
+		"color": "green",
+		"start": "2015-10-23",
+		"end": "2015-10-23 23:00:00",
+		"id": "1373_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2015-11-02",
+		"end": "2015-11-02 23:00:00",
+		"id": "1405_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2015-11-16",
+		"end": "2015-11-16 23:00:00",
+		"id": "1501_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2015-11-09",
+		"end": "2015-11-09 23:00:00",
+		"id": "1502_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2015-11-18",
+		"end": "2015-11-18 23:00:00",
+		"id": "1509_innovEleave_leaveApplication",
+		"title": "Kosh Sergani"
+	},
+	{
+		"color": "green",
+		"start": "2015-11-17",
+		"end": "2015-11-17 23:00:00",
+		"id": "1510_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2015-11-30",
+		"end": "2015-12-01 23:00:00",
+		"id": "1518_innovEleave_leaveApplication",
+		"title": "Yun Yie Goh"
+	},
+	{
+		"color": "green",
+		"start": "2015-11-25",
+		"end": "2015-11-26 23:00:00",
+		"id": "1520_innovEleave_leaveApplication",
+		"title": "Kosh Sergani"
+	},
+	{
+		"color": "green",
+		"start": "2015-12-14",
+		"end": "2015-12-14 23:00:00",
+		"id": "1522_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2015-12-07",
+		"end": "2015-12-07 23:00:00",
+		"id": "1523_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2015-12-07",
+		"end": "2015-12-07 23:00:00",
+		"id": "1524_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2015-12-31",
+		"end": "2015-12-31 23:00:00",
+		"id": "1532_innovEleave_leaveApplication",
+		"title": "Yun Yie Goh"
+	},
+	{
+		"color": "green",
+		"start": "2016-01-04",
+		"end": "2016-01-04 23:00:00",
+		"id": "1533_innovEleave_leaveApplication",
+		"title": "Yun Yie Goh"
+	},
+	{
+		"color": "green",
+		"start": "2016-03-10",
+		"end": "2016-03-14 23:00:00",
+		"id": "1538_innovEleave_leaveApplication",
+		"title": "Yuen Kiat Cheong"
+	},
+	{
+		"color": "green",
+		"start": "2015-12-31",
+		"end": "2015-12-31 23:00:00",
+		"id": "1546_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2016-02-05",
+		"end": "2016-02-12 23:00:00",
+		"id": "1547_innovEleave_leaveApplication",
+		"title": "Yun Yie Goh"
+	},
+	{
+		"color": "green",
+		"start": "2016-01-11",
+		"end": "2016-01-11 23:00:00",
+		"id": "1548_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2016-03-11",
+		"end": "2016-03-18 23:00:00",
+		"id": "1549_innovEleave_leaveApplication",
+		"title": "Kun-Hung Sze"
+	},
+	{
+		"color": "green",
+		"start": "2016-01-15",
+		"end": "2016-01-15 23:00:00",
+		"id": "1550_innovEleave_leaveApplication",
+		"title": "Tien-Soon Law"
+	},
+	{
+		"color": "green",
+		"start": "2016-02-10",
+		"end": "2016-02-11 23:00:00",
+		"id": "1551_innovEleave_leaveApplication",
+		"title": "Tien-Soon Law"
+	},
+	{
+		"color": "green",
+		"start": "2016-02-12",
+		"end": "2016-02-15 23:00:00",
+		"id": "1552_innovEleave_leaveApplication",
+		"title": "Yun Yie Goh"
+	},
+	{
+		"color": "green",
+		"start": "2016-02-02",
+		"end": "2016-02-15 23:00:00",
+		"id": "1555_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2016-02-10",
+		"end": "2016-02-11 23:00:00",
+		"id": "1556_innovEleave_leaveApplication",
+		"title": "George Lee"
+	},
+	{
+		"color": "green",
+		"start": "2016-01-18",
+		"end": "2016-01-18 23:00:00",
+		"id": "1558_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2016-02-10",
+		"end": "2016-02-11 23:00:00",
+		"id": "1559_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2016-02-15",
+		"end": "2016-02-17 23:00:00",
+		"id": "1560_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2016-01-21",
+		"end": "2016-01-21 23:00:00",
+		"id": "1561_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2016-02-10",
+		"end": "2016-02-12 23:00:00",
+		"id": "1562_innovEleave_leaveApplication",
+		"title": "Yuen Kiat Cheong"
+	},
+	{
+		"color": "green",
+		"start": "2016-01-26",
+		"end": "2016-01-26 23:00:00",
+		"id": "1568_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2016-01-29",
+		"end": "2016-01-29 23:00:00",
+		"id": "1569_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2016-01-26",
+		"end": "2016-01-27 23:00:00",
+		"id": "1570_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2016-02-10",
+		"end": "2016-02-12 23:00:00",
+		"id": "1571_innovEleave_leaveApplication",
+		"title": "Kun-Hung Sze"
+	},
+	{
+		"color": "green",
+		"start": "2016-02-12",
+		"end": "2016-02-12 23:00:00",
+		"id": "1576_innovEleave_leaveApplication",
+		"title": "Kosh Sergani"
+	},
+	{
+		"color": "green",
+		"start": "2016-02-15",
+		"end": "2016-02-15 23:00:00",
+		"id": "1577_innovEleave_leaveApplication",
+		"title": "Kosh Sergani"
+	},
+	{
+		"color": "green",
+		"start": "2016-01-11",
+		"end": "2016-01-14 23:00:00",
+		"id": "1579_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2016-02-29",
+		"end": "2016-02-29 23:00:00",
+		"id": "1581_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2016-02-24",
+		"end": "2016-02-24 23:00:00",
+		"id": "1582_innovEleave_leaveApplication",
+		"title": "Kosh Sergani"
+	},
+	{
+		"color": "green",
+		"start": "2016-02-29",
+		"end": "2016-02-29 23:00:00",
+		"id": "1583_innovEleave_leaveApplication",
+		"title": "Yuen Kiat Cheong"
+	},
+	{
+		"color": "green",
+		"start": "2016-03-01",
+		"end": "2016-03-01 23:00:00",
+		"id": "1592_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2016-03-01",
+		"end": "2016-03-01 23:00:00",
+		"id": "1593_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2016-03-07",
+		"end": "2016-03-07 23:00:00",
+		"id": "1594_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2016-03-15",
+		"end": "2016-03-15 23:00:00",
+		"id": "1595_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2016-03-01",
+		"end": "2016-03-02 23:00:00",
+		"id": "1596_innovEleave_leaveApplication",
+		"title": "Kosh Sergani"
+	},
+	{
+		"color": "green",
+		"start": "2016-03-10",
+		"end": "2016-03-10 23:00:00",
+		"id": "1599_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2016-03-18",
+		"end": "2016-03-18 23:00:00",
+		"id": "1600_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2016-03-14",
+		"end": "2016-03-14 23:00:00",
+		"id": "1602_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2016-03-16",
+		"end": "2016-03-16 23:00:00",
+		"id": "1603_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2016-03-17",
+		"end": "2016-03-18 23:00:00",
+		"id": "1604_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2016-03-21",
+		"end": "2016-03-21 23:00:00",
+		"id": "1605_innovEleave_leaveApplication",
+		"title": "Yun Yie Goh"
+	},
+	{
+		"color": "green",
+		"start": "2016-03-24",
+		"end": "2016-03-24 23:00:00",
+		"id": "1606_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2016-03-31",
+		"end": "2016-03-31 23:00:00",
+		"id": "1622_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2016-03-28",
+		"end": "2016-03-28 23:00:00",
+		"id": "1624_innovEleave_leaveApplication",
+		"title": "Kosh Sergani"
+	},
+	{
+		"color": "green",
+		"start": "2016-03-31",
+		"end": "2016-03-31 23:00:00",
+		"id": "1625_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2016-04-21",
+		"end": "2016-04-21 23:00:00",
+		"id": "1626_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2016-05-03",
+		"end": "2016-05-03 23:00:00",
+		"id": "1627_innovEleave_leaveApplication",
+		"title": "Yun Yie Goh"
+	},
+	{
+		"color": "green",
+		"start": "2016-04-20",
+		"end": "2016-04-22 23:00:00",
+		"id": "1628_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2016-04-28",
+		"end": "2016-04-28 23:00:00",
+		"id": "1631_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2016-04-25",
+		"end": "2016-04-25 23:00:00",
+		"id": "1635_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2016-05-04",
+		"end": "2016-05-04 23:00:00",
+		"id": "1636_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2016-05-06",
+		"end": "2016-05-06 23:00:00",
+		"id": "1637_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2016-05-09",
+		"end": "2016-05-09 23:00:00",
+		"id": "1638_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2016-05-18",
+		"end": "2016-05-18 23:00:00",
+		"id": "1639_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2016-05-31",
+		"end": "2016-05-31 23:00:00",
+		"id": "1640_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2016-05-06",
+		"end": "2016-05-06 23:00:00",
+		"id": "1641_innovEleave_leaveApplication",
+		"title": "Kosh Sergani"
+	},
+	{
+		"color": "green",
+		"start": "2016-05-16",
+		"end": "2016-05-16 23:00:00",
+		"id": "1642_innovEleave_leaveApplication",
+		"title": "Jimmy Tee"
+	},
+	{
+		"color": "green",
+		"start": "2016-05-11",
+		"end": "2016-05-11 23:00:00",
+		"id": "1643_innovEleave_leaveApplication",
+		"title": "Tien-Soon Law"
+	},
+	{
+		"color": "green",
+		"start": "2016-10-10",
+		"end": "2016-10-22 23:00:00",
+		"id": "1645_innovEleave_leaveApplication",
+		"title": "George Lee"
+	},
+	{
+		"color": "green",
+		"start": "2016-06-29",
+		"end": "2016-07-01 23:00:00",
+		"id": "1646_innovEleave_leaveApplication",
+		"title": "Yuen Kiat Cheong"
+	},
+	{
+		"color": "green",
+		"start": "2016-05-25",
+		"end": "2016-05-26 23:00:00",
+		"id": "1654_innovEleave_leaveApplication",
+		"title": "Yun Yie Goh"
+	},
+	{
+		"color": "green",
+		"start": "2016-05-30",
+		"end": "2016-05-30 23:00:00",
+		"id": "1655_innovEleave_leaveApplication",
+		"title": "Yun Yie Goh"
+	},
+	{
+		"color": "green",
+		"start": "2016-06-17",
+		"end": "2016-06-17 23:00:00",
+		"id": "1656_innovEleave_leaveApplication",
+		"title": "George Lee"
+	},
+	{
+		"color": "green",
+		"start": "2016-05-30",
+		"end": "2016-06-03 23:00:00",
+		"id": "1659_innovEleave_leaveApplication",
+		"title": "Kosh Sergani"
+	},
+	{
+		"color": "green",
+		"start": "2016-06-07",
+		"end": "2016-06-07 23:00:00",
+		"id": "1666_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2016-08-11",
+		"end": "2016-08-12 23:00:00",
+		"id": "1667_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2016-06-13",
+		"end": "2016-06-13 23:00:00",
+		"id": "1676_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2016-06-09",
+		"end": "2016-06-09 23:00:00",
+		"id": "1677_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2016-07-08",
+		"end": "2016-07-08 23:00:00",
+		"id": "1678_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2016-09-13",
+		"end": "2016-09-13 23:00:00",
+		"id": "1681_innovEleave_leaveApplication",
+		"title": "Yun Yie Goh"
+	},
+	{
+		"color": "green",
+		"start": "2016-07-08",
+		"end": "2016-07-08 23:00:00",
+		"id": "1686_innovEleave_leaveApplication",
+		"title": "Jimmy Tee"
+	},
+	{
+		"color": "green",
+		"start": "2016-07-08",
+		"end": "2016-07-11 23:00:00",
+		"id": "1688_innovEleave_leaveApplication",
+		"title": "Yun Yie Goh"
+	},
+	{
+		"color": "green",
+		"start": "2016-07-08",
+		"end": "2016-07-08 23:00:00",
+		"id": "1689_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2016-07-08",
+		"end": "2016-07-08 23:00:00",
+		"id": "1690_innovEleave_leaveApplication",
+		"title": "Yuen Kiat Cheong"
+	},
+	{
+		"color": "green",
+		"start": "2016-07-11",
+		"end": "2016-07-11 23:00:00",
+		"id": "1697_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2016-07-11",
+		"end": "2016-07-11 23:00:00",
+		"id": "1698_innovEleave_leaveApplication",
+		"title": "Jimmy Tee"
+	},
+	{
+		"color": "green",
+		"start": "2016-07-21",
+		"end": "2016-07-22 23:00:00",
+		"id": "1703_innovEleave_leaveApplication",
+		"title": "Yuen Kiat Cheong"
+	},
+	{
+		"color": "green",
+		"start": "2016-07-26",
+		"end": "2016-07-26 23:00:00",
+		"id": "1705_innovEleave_leaveApplication",
+		"title": "Yun Yie Goh"
+	},
+	{
+		"color": "green",
+		"start": "2016-07-29",
+		"end": "2016-07-29 23:00:00",
+		"id": "1707_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2016-08-05",
+		"end": "2016-08-05 23:00:00",
+		"id": "1708_innovEleave_leaveApplication",
+		"title": "Yun Yie Goh"
+	},
+	{
+		"color": "green",
+		"start": "2016-08-04",
+		"end": "2016-08-04 23:00:00",
+		"id": "1709_innovEleave_leaveApplication",
+		"title": "Jimmy Tee"
+	},
+	{
+		"color": "green",
+		"start": "2016-08-12",
+		"end": "2016-08-12 23:00:00",
+		"id": "1718_innovEleave_leaveApplication",
+		"title": "Jimmy Tee"
+	},
+	{
+		"color": "green",
+		"start": "2016-08-19",
+		"end": "2016-08-19 23:00:00",
+		"id": "1719_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2016-08-25",
+		"end": "2016-08-25 23:00:00",
+		"id": "1723_innovEleave_leaveApplication",
+		"title": "Jimmy Tee"
+	},
+	{
+		"color": "green",
+		"start": "2016-08-17",
+		"end": "2016-08-17 23:00:00",
+		"id": "1726_innovEleave_leaveApplication",
+		"title": "Kosh Sergani"
+	},
+	{
+		"color": "green",
+		"start": "2016-08-23",
+		"end": "2016-08-23 23:00:00",
+		"id": "1735_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2016-08-26",
+		"end": "2016-08-26 23:00:00",
+		"id": "1736_innovEleave_leaveApplication",
+		"title": "Jimmy Tee"
+	},
+	{
+		"color": "green",
+		"start": "2016-09-01",
+		"end": "2016-09-01 23:00:00",
+		"id": "1739_innovEleave_leaveApplication",
+		"title": "Kun-Hung Sze"
+	},
+	{
+		"color": "green",
+		"start": "2016-12-01",
+		"end": "2016-12-05 23:00:00",
+		"id": "1740_innovEleave_leaveApplication",
+		"title": "Yuen Kiat Cheong"
+	},
+	{
+		"color": "green",
+		"start": "2016-08-29",
+		"end": "2016-08-29 23:00:00",
+		"id": "1751_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2016-09-19",
+		"end": "2016-09-19 23:00:00",
+		"id": "1762_innovEleave_leaveApplication",
+		"title": "Jimmy Tee"
+	},
+	{
+		"color": "green",
+		"start": "2016-09-19",
+		"end": "2016-09-19 23:00:00",
+		"id": "1763_innovEleave_leaveApplication",
+		"title": "Kosh Sergani"
+	},
+	{
+		"color": "green",
+		"start": "2016-12-29",
+		"end": "2016-12-31 23:00:00",
+		"id": "1767_innovEleave_leaveApplication",
+		"title": "Kun-Hung Sze"
+	},
+	{
+		"color": "green",
+		"start": "2016-09-30",
+		"end": "2016-09-30 23:00:00",
+		"id": "1777_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2016-09-28",
+		"end": "2016-09-28 23:00:00",
+		"id": "1790_innovEleave_leaveApplication",
+		"title": "Jimmy Tee"
+	},
+	{
+		"color": "green",
+		"start": "2016-12-05",
+		"end": "2016-12-05 23:00:00",
+		"id": "1791_innovEleave_leaveApplication",
+		"title": "Yun Yie Goh"
+	},
+	{
+		"color": "green",
+		"start": "2016-10-24",
+		"end": "2016-10-24 23:00:00",
+		"id": "1794_innovEleave_leaveApplication",
+		"title": "Yun Yie Goh"
+	},
+	{
+		"color": "green",
+		"start": "2016-10-13",
+		"end": "2016-10-13 23:00:00",
+		"id": "1797_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2016-12-14",
+		"end": "2016-12-16 23:00:00",
+		"id": "1798_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2016-10-10",
+		"end": "2016-10-10 23:00:00",
+		"id": "1800_innovEleave_leaveApplication",
+		"title": "Yun Yie Goh"
+	},
+	{
+		"color": "green",
+		"start": "2016-10-14",
+		"end": "2016-10-14 23:00:00",
+		"id": "1802_innovEleave_leaveApplication",
+		"title": "Jimmy Tee"
+	},
+	{
+		"color": "green",
+		"start": "2016-10-17",
+		"end": "2016-10-17 23:00:00",
+		"id": "1804_innovEleave_leaveApplication",
+		"title": "Jimmy Tee"
+	},
+	{
+		"color": "green",
+		"start": "2016-10-18",
+		"end": "2016-10-18 23:00:00",
+		"id": "1806_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2016-10-28",
+		"end": "2016-10-28 23:00:00",
+		"id": "1809_innovEleave_leaveApplication",
+		"title": "Yun Yie Goh"
+	},
+	{
+		"color": "green",
+		"start": "2016-10-28",
+		"end": "2016-10-28 23:00:00",
+		"id": "1810_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2016-10-31",
+		"end": "2016-10-31 23:00:00",
+		"id": "1811_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2016-11-01",
+		"end": "2016-11-01 23:00:00",
+		"id": "1815_innovEleave_leaveApplication",
+		"title": "Jimmy Tee"
+	},
+	{
+		"color": "green",
+		"start": "2016-11-01",
+		"end": "2016-11-01 23:00:00",
+		"id": "1818_innovEleave_leaveApplication",
+		"title": "Jimmy Tee"
+	},
+	{
+		"color": "green",
+		"start": "2016-11-24",
+		"end": "2016-11-25 23:00:00",
+		"id": "1820_innovEleave_leaveApplication",
+		"title": "Jimmy Tee"
+	},
+	{
+		"color": "green",
+		"start": "2016-11-04",
+		"end": "2016-11-04 23:00:00",
+		"id": "1821_innovEleave_leaveApplication",
+		"title": "Marwan Ameen"
+	},
+	{
+		"color": "green",
+		"start": "2016-11-25",
+		"end": "2016-11-25 23:00:00",
+		"id": "1822_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2016-11-10",
+		"end": "2016-11-11 23:00:00",
+		"id": "1823_innovEleave_leaveApplication",
+		"title": "Kosh Sergani"
+	},
+	{
+		"color": "green",
+		"start": "2016-11-23",
+		"end": "2016-11-23 23:00:00",
+		"id": "1827_innovEleave_leaveApplication",
+		"title": "Jimmy Tee"
+	},
+	{
+		"color": "green",
+		"start": "2016-11-21",
+		"end": "2016-11-21 23:00:00",
+		"id": "1831_innovEleave_leaveApplication",
+		"title": "Marwan Ameen"
+	},
+	{
+		"color": "green",
+		"start": "2016-11-21",
+		"end": "2016-11-21 23:00:00",
+		"id": "1833_innovEleave_leaveApplication",
+		"title": "Yun Yie Goh"
+	},
+	{
+		"color": "green",
+		"start": "2016-11-30",
+		"end": "2016-11-30 23:00:00",
+		"id": "1844_innovEleave_leaveApplication",
+		"title": "Yun Yie Goh"
+	},
+	{
+		"color": "green",
+		"start": "2016-11-28",
+		"end": "2016-11-28 23:00:00",
+		"id": "1845_innovEleave_leaveApplication",
+		"title": "Jimmy Tee"
+	},
+	{
+		"color": "green",
+		"start": "2016-12-02",
+		"end": "2016-12-02 23:00:00",
+		"id": "1846_innovEleave_leaveApplication",
+		"title": "Jimmy Tee"
+	},
+	{
+		"color": "green",
+		"start": "2016-12-06",
+		"end": "2016-12-06 23:00:00",
+		"id": "1848_innovEleave_leaveApplication",
+		"title": "Kun-Hung Sze"
+	},
+	{
+		"color": "green",
+		"start": "2016-12-05",
+		"end": "2016-12-05 23:00:00",
+		"id": "1849_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2016-12-02",
+		"end": "2016-12-02 23:00:00",
+		"id": "1850_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2016-12-05",
+		"end": "2016-12-05 23:00:00",
+		"id": "1852_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2016-12-06",
+		"end": "2016-12-06 23:00:00",
+		"id": "1854_innovEleave_leaveApplication",
+		"title": "Kun-Hung Sze"
+	},
+	{
+		"color": "green",
+		"start": "2016-12-07",
+		"end": "2016-12-07 23:00:00",
+		"id": "1857_innovEleave_leaveApplication",
+		"title": "Tien-Soon Law"
+	},
+	{
+		"color": "green",
+		"start": "2016-12-07",
+		"end": "2016-12-07 23:00:00",
+		"id": "1859_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2016-12-09",
+		"end": "2016-12-09 23:00:00",
+		"id": "1860_innovEleave_leaveApplication",
+		"title": "Kosh Sergani"
+	},
+	{
+		"color": "green",
+		"start": "2016-12-23",
+		"end": "2016-12-27 23:00:00",
+		"id": "1865_innovEleave_leaveApplication",
+		"title": "Yun Yie Goh"
+	},
+	{
+		"color": "green",
+		"start": "2016-12-15",
+		"end": "2016-12-15 23:00:00",
+		"id": "1866_innovEleave_leaveApplication",
+		"title": "Kosh Sergani"
+	},
+	{
+		"color": "green",
+		"start": "2016-12-23",
+		"end": "2016-12-23 23:00:00",
+		"id": "1867_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2016-12-06",
+		"end": "2016-12-06 23:00:00",
+		"id": "1868_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2016-12-20",
+		"end": "2016-12-21 23:00:00",
+		"id": "1875_innovEleave_leaveApplication",
+		"title": "Kun-Hung Sze"
+	},
+	{
+		"color": "green",
+		"start": "2016-12-23",
+		"end": "2016-12-23 23:00:00",
+		"id": "1877_innovEleave_leaveApplication",
+		"title": "Kosh Sergani"
+	},
+	{
+		"color": "green",
+		"start": "2016-12-23",
+		"end": "2016-12-23 23:00:00",
+		"id": "1880_innovEleave_leaveApplication",
+		"title": "Jimmy Tee"
+	},
+	{
+		"color": "green",
+		"start": "2016-12-27",
+		"end": "2016-12-27 23:00:00",
+		"id": "1883_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2016-12-28",
+		"end": "2016-12-28 23:00:00",
+		"id": "1886_innovEleave_leaveApplication",
+		"title": "Jimmy Tee"
+	},
+	{
+		"color": "green",
+		"start": "2016-12-30",
+		"end": "2016-12-30 23:00:00",
+		"id": "1887_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2017-01-30",
+		"end": "2017-02-02 23:00:00",
+		"id": "1902_innovEleave_leaveApplication",
+		"title": "Tien-Soon Law"
+	},
+	{
+		"color": "green",
+		"start": "2017-01-04",
+		"end": "2017-01-04 23:00:00",
+		"id": "1903_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2017-01-05",
+		"end": "2017-01-06 23:00:00",
+		"id": "1904_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2017-01-31",
+		"end": "2017-02-02 23:00:00",
+		"id": "1905_innovEleave_leaveApplication",
+		"title": "George Lee"
+	},
+	{
+		"color": "green",
+		"start": "2017-01-10",
+		"end": "2017-01-10 23:00:00",
+		"id": "1906_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2017-01-11",
+		"end": "2017-01-11 23:00:00",
+		"id": "1908_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2017-01-09",
+		"end": "2017-01-09 23:00:00",
+		"id": "1909_innovEleave_leaveApplication",
+		"title": "Yuen Kiat Cheong"
+	},
+	{
+		"color": "green",
+		"start": "2017-01-09",
+		"end": "2017-01-09 23:00:00",
+		"id": "1910_innovEleave_leaveApplication",
+		"title": "Marwan Ameen"
+	},
+	{
+		"color": "green",
+		"start": "2017-01-26",
+		"end": "2017-01-26 23:00:00",
+		"id": "1912_innovEleave_leaveApplication",
+		"title": "Kun-Hung Sze"
+	},
+	{
+		"color": "green",
+		"start": "2017-01-10",
+		"end": "2017-01-11 23:00:00",
+		"id": "1913_innovEleave_leaveApplication",
+		"title": "Kun-Hung Sze"
+	},
+	{
+		"color": "green",
+		"start": "2017-01-26",
+		"end": "2017-01-31 23:00:00",
+		"id": "1914_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2017-01-13",
+		"end": "2017-01-13 23:00:00",
+		"id": "1915_innovEleave_leaveApplication",
+		"title": "Kosh Sergani"
+	},
+	{
+		"color": "green",
+		"start": "2017-01-27",
+		"end": "2017-02-01 23:00:00",
+		"id": "1917_innovEleave_leaveApplication",
+		"title": "Yuen Kiat Cheong"
+	},
+	{
+		"color": "green",
+		"start": "2017-01-31",
+		"end": "2017-02-02 23:00:00",
+		"id": "1918_innovEleave_leaveApplication",
+		"title": "George Lee"
+	},
+	{
+		"color": "green",
+		"start": "2017-02-03",
+		"end": "2017-02-03 23:00:00",
+		"id": "1920_innovEleave_leaveApplication",
+		"title": "Kosh Sergani"
+	},
+	{
+		"color": "green",
+		"start": "2017-01-24",
+		"end": "2017-01-24 23:00:00",
+		"id": "1937_innovEleave_leaveApplication",
+		"title": "Yuen Kiat Cheong"
+	},
+	{
+		"color": "green",
+		"start": "2017-01-31",
+		"end": "2017-02-01 23:00:00",
+		"id": "1940_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2017-02-02",
+		"end": "2017-02-02 23:00:00",
+		"id": "1943_innovEleave_leaveApplication",
+		"title": "Kosh Sergani"
+	},
+	{
+		"color": "green",
+		"start": "2017-01-26",
+		"end": "2017-02-02 23:00:00",
+		"id": "1945_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2017-02-06",
+		"end": "2017-02-06 23:00:00",
+		"id": "1954_innovEleave_leaveApplication",
+		"title": "Marwan Ameen"
+	},
+	{
+		"color": "green",
+		"start": "2017-02-07",
+		"end": "2017-02-07 23:00:00",
+		"id": "1956_innovEleave_leaveApplication",
+		"title": "Kosh Sergani"
+	},
+	{
+		"color": "green",
+		"start": "2017-05-11",
+		"end": "2017-05-12 23:00:00",
+		"id": "1979_innovEleave_leaveApplication",
+		"title": "George Lee"
+	},
+	{
+		"color": "green",
+		"start": "2017-04-07",
+		"end": "2017-04-10 23:00:00",
+		"id": "1990_innovEleave_leaveApplication",
+		"title": "Yuen Kiat Cheong"
+	},
+	{
+		"color": "green",
+		"start": "2017-05-04",
+		"end": "2017-05-08 23:00:00",
+		"id": "1991_innovEleave_leaveApplication",
+		"title": "Yuen Kiat Cheong"
+	},
+	{
+		"color": "green",
+		"start": "2017-03-17",
+		"end": "2017-03-17 23:00:00",
+		"id": "1992_innovEleave_leaveApplication",
+		"title": "Kosh Sergani"
+	},
+	{
+		"color": "green",
+		"start": "2017-02-03",
+		"end": "2017-02-03 23:00:00",
+		"id": "1993_innovEleave_leaveApplication",
+		"title": "Kosh Sergani"
+	},
+	{
+		"color": "green",
+		"start": "2017-02-27",
+		"end": "2017-02-27 23:00:00",
+		"id": "2005_innovEleave_leaveApplication",
+		"title": "Kosh Sergani"
+	},
+	{
+		"color": "green",
+		"start": "2017-02-24",
+		"end": "2017-02-24 23:00:00",
+		"id": "2009_innovEleave_leaveApplication",
+		"title": "Kun-Hung Sze"
+	},
+	{
+		"color": "green",
+		"start": "2017-03-02",
+		"end": "2017-03-02 23:00:00",
+		"id": "2011_innovEleave_leaveApplication",
+		"title": "Kosh Sergani"
+	},
+	{
+		"color": "green",
+		"start": "2017-03-14",
+		"end": "2017-03-14 23:00:00",
+		"id": "2026_innovEleave_leaveApplication",
+		"title": "Kosh Sergani"
+	},
+	{
+		"color": "green",
+		"start": "2017-03-13",
+		"end": "2017-03-13 23:00:00",
+		"id": "2030_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2017-03-16",
+		"end": "2017-03-16 23:00:00",
+		"id": "2034_innovEleave_leaveApplication",
+		"title": "Kun-Hung Sze"
+	},
+	{
+		"color": "green",
+		"start": "2017-03-20",
+		"end": "2017-03-20 23:00:00",
+		"id": "2035_innovEleave_leaveApplication",
+		"title": "Yuen Kiat Cheong"
+	},
+	{
+		"color": "green",
+		"start": "2017-03-21",
+		"end": "2017-03-21 23:00:00",
+		"id": "2036_innovEleave_leaveApplication",
+		"title": "Yuen Kiat Cheong"
+	},
+	{
+		"color": "green",
+		"start": "2017-03-24",
+		"end": "2017-03-24 23:00:00",
+		"id": "2040_innovEleave_leaveApplication",
+		"title": "Kosh Sergani"
+	},
+	{
+		"color": "green",
+		"start": "2017-04-06",
+		"end": "2017-04-06 23:00:00",
+		"id": "2057_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2017-04-04",
+		"end": "2017-04-04 23:00:00",
+		"id": "2065_innovEleave_leaveApplication",
+		"title": "Kun-Hung Sze"
+	},
+	{
+		"color": "green",
+		"start": "2017-04-03",
+		"end": "2017-04-06 23:00:00",
+		"id": "2067_innovEleave_leaveApplication",
+		"title": "Kosh Sergani"
+	},
+	{
+		"color": "green",
+		"start": "2017-04-05",
+		"end": "2017-04-05 23:00:00",
+		"id": "2069_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2017-04-06",
+		"end": "2017-04-06 23:00:00",
+		"id": "2072_innovEleave_leaveApplication",
+		"title": "Yuen Kiat Cheong"
+	},
+	{
+		"color": "green",
+		"start": "2017-04-07",
+		"end": "2017-04-14 23:00:00",
+		"id": "2077_innovEleave_leaveApplication",
+		"title": "Kosh Sergani"
+	},
+	{
+		"color": "green",
+		"start": "2017-05-06",
+		"end": "2017-05-10 23:00:00",
+		"id": "2083_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2017-05-03",
+		"end": "2017-05-03 23:00:00",
+		"id": "2103_innovEleave_leaveApplication",
+		"title": "Kosh Sergani"
+	},
+	{
+		"color": "green",
+		"start": "2017-05-15",
+		"end": "2017-05-15 23:00:00",
+		"id": "2116_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2017-06-19",
+		"end": "2017-06-19 23:00:00",
+		"id": "2117_innovEleave_leaveApplication",
+		"title": "Yuen Kiat Cheong"
+	},
+	{
+		"color": "green",
+		"start": "2017-05-19",
+		"end": "2017-05-19 23:00:00",
+		"id": "2118_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2017-05-23",
+		"end": "2017-05-23 23:00:00",
+		"id": "2122_innovEleave_leaveApplication",
+		"title": "Kun-Hung Sze"
+	},
+	{
+		"color": "green",
+		"start": "2017-05-18",
+		"end": "2017-05-18 23:00:00",
+		"id": "2125_innovEleave_leaveApplication",
+		"title": "Kosh Sergani"
+	},
+	{
+		"color": "green",
+		"start": "2017-05-22",
+		"end": "2017-05-22 23:00:00",
+		"id": "2126_innovEleave_leaveApplication",
+		"title": "Kosh Sergani"
+	},
+	{
+		"color": "green",
+		"start": "2017-06-02",
+		"end": "2017-06-02 23:00:00",
+		"id": "2144_innovEleave_leaveApplication",
+		"title": "Kosh Sergani"
+	},
+	{
+		"color": "green",
+		"start": "2017-05-30",
+		"end": "2017-05-30 23:00:00",
+		"id": "2145_innovEleave_leaveApplication",
+		"title": "Kun-Hung Sze"
+	},
+	{
+		"color": "green",
+		"start": "2017-05-29",
+		"end": "2017-05-29 23:00:00",
+		"id": "2146_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2017-05-31",
+		"end": "2017-05-31 23:00:00",
+		"id": "2148_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2017-06-19",
+		"end": "2017-06-19 23:00:00",
+		"id": "2150_innovEleave_leaveApplication",
+		"title": "George Lee"
+	},
+	{
+		"color": "green",
+		"start": "2017-06-05",
+		"end": "2017-06-05 23:00:00",
+		"id": "2151_innovEleave_leaveApplication",
+		"title": "George Lee"
+	},
+	{
+		"color": "green",
+		"start": "2017-06-09",
+		"end": "2017-06-09 23:00:00",
+		"id": "2153_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2017-06-07",
+		"end": "2017-06-14 23:00:00",
+		"id": "2161_innovEleave_leaveApplication",
+		"title": "Marwan Ameen"
+	},
+	{
+		"color": "green",
+		"start": "2017-06-23",
+		"end": "2017-06-23 23:00:00",
+		"id": "2178_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2017-06-22",
+		"end": "2017-06-22 23:00:00",
+		"id": "2190_innovEleave_leaveApplication",
+		"title": "Marwan Ameen"
+	},
+	{
+		"color": "green",
+		"start": "2017-07-03",
+		"end": "2017-07-03 23:00:00",
+		"id": "2204_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2017-07-10",
+		"end": "2017-07-10 23:00:00",
+		"id": "2206_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2017-07-14",
+		"end": "2017-07-14 23:00:00",
+		"id": "2214_innovEleave_leaveApplication",
+		"title": "Kun-Hung Sze"
+	},
+	{
+		"color": "green",
+		"start": "2017-08-25",
+		"end": "2017-08-25 23:00:00",
+		"id": "2222_innovEleave_leaveApplication",
+		"title": "Yuen Kiat Cheong"
+	},
+	{
+		"color": "green",
+		"start": "2017-08-15",
+		"end": "2017-08-15 23:00:00",
+		"id": "2352_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2017-08-23",
+		"end": "2017-08-23 23:00:00",
+		"id": "2368_innovEleave_leaveApplication",
+		"title": "Kun-Hung Sze"
+	},
+	{
+		"color": "green",
+		"start": "2017-08-29",
+		"end": "2017-08-29 23:00:00",
+		"id": "2391_innovEleave_leaveApplication",
+		"title": "Marwan Ameen"
+	},
+	{
+		"color": "green",
+		"start": "2017-08-30",
+		"end": "2017-08-30 23:00:00",
+		"id": "2417_innovEleave_leaveApplication",
+		"title": "Kun-Hung Sze"
+	},
+	{
+		"color": "green",
+		"start": "2017-11-07",
+		"end": "2017-11-07 23:00:00",
+		"id": "2418_innovEleave_leaveApplication",
+		"title": "Kun-Hung Sze"
+	},
+	{
+		"color": "green",
+		"start": "2017-09-04",
+		"end": "2017-09-04 23:00:00",
+		"id": "2433_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2017-11-17",
+		"end": "2017-11-21 23:00:00",
+		"id": "2451_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2017-09-25",
+		"end": "2017-09-27 23:00:00",
+		"id": "2453_innovEleave_leaveApplication",
+		"title": "George Lee"
+	},
+	{
+		"color": "green",
+		"start": "2017-09-19",
+		"end": "2017-09-19 23:00:00",
+		"id": "2459_innovEleave_leaveApplication",
+		"title": "Kun-Hung Sze"
+	},
+	{
+		"color": "green",
+		"start": "2017-10-02",
+		"end": "2017-10-03 23:00:00",
+		"id": "2462_innovEleave_leaveApplication",
+		"title": "Yuen Kiat Cheong"
+	},
+	{
+		"color": "green",
+		"start": "2017-10-09",
+		"end": "2017-10-09 23:00:00",
+		"id": "2486_innovEleave_leaveApplication",
+		"title": "George Lee"
+	},
+	{
+		"color": "green",
+		"start": "2017-10-05",
+		"end": "2017-10-05 23:00:00",
+		"id": "2489_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2017-11-22",
+		"end": "2017-11-22 23:00:00",
+		"id": "2491_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2017-10-19",
+		"end": "2017-10-20 23:00:00",
+		"id": "2545_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2017-11-30",
+		"end": "2017-12-04 23:00:00",
+		"id": "2561_innovEleave_leaveApplication",
+		"title": "Tossy Permana Putra"
+	},
+	{
+		"color": "green",
+		"start": "2017-11-06",
+		"end": "2017-11-06 23:00:00",
+		"id": "2562_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2017-10-27",
+		"end": "2017-10-28 23:00:00",
+		"id": "2563_innovEleave_leaveApplication",
+		"title": "Jeremy Khaira"
+	},
+	{
+		"color": "green",
+		"start": "2017-12-15",
+		"end": "2017-12-18 23:00:00",
+		"id": "2577_innovEleave_leaveApplication",
+		"title": "Kun-Hung Sze"
+	},
+	{
+		"color": "green",
+		"start": "2017-12-29",
+		"end": "2017-12-29 23:00:00",
+		"id": "2578_innovEleave_leaveApplication",
+		"title": "Kun-Hung Sze"
+	},
+	{
+		"color": "green",
+		"start": "2017-11-06",
+		"end": "2017-11-06 23:00:00",
+		"id": "2583_innovEleave_leaveApplication",
+		"title": "Marwan Ameen"
+	},
+	{
+		"color": "green",
+		"start": "2017-11-09",
+		"end": "2017-11-09 23:00:00",
+		"id": "2585_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2017-12-18",
+		"end": "2017-12-22 23:00:00",
+		"id": "2616_innovEleave_leaveApplication",
+		"title": "Marwan Ameen"
+	},
+	{
+		"color": "green",
+		"start": "2017-12-04",
+		"end": "2017-12-04 23:00:00",
+		"id": "2628_innovEleave_leaveApplication",
+		"title": "Kun-Hung Sze"
+	},
+	{
+		"color": "green",
+		"start": "2017-11-29",
+		"end": "2017-11-29 23:00:00",
+		"id": "2630_innovEleave_leaveApplication",
+		"title": "Kun-Hung Sze"
+	},
+	{
+		"color": "green",
+		"start": "2017-12-19",
+		"end": "2017-12-22 23:00:00",
+		"id": "2646_innovEleave_leaveApplication",
+		"title": "Kun-Hung Sze"
+	},
+	{
+		"color": "green",
+		"start": "2017-12-28",
+		"end": "2017-12-29 23:00:00",
+		"id": "2668_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2017-12-13",
+		"end": "2017-12-13 23:00:00",
+		"id": "2670_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2017-12-21",
+		"end": "2017-12-21 23:00:00",
+		"id": "2682_innovEleave_leaveApplication",
+		"title": "George Lee"
+	},
+	{
+		"color": "green",
+		"start": "2017-12-20",
+		"end": "2017-12-20 23:00:00",
+		"id": "2685_innovEleave_leaveApplication",
+		"title": "Raymond Lau"
+	},
+	{
+		"color": "green",
+		"start": "2017-12-27",
+		"end": "2017-12-29 23:00:00",
+		"id": "2687_innovEleave_leaveApplication",
+		"title": "Jeremy Khaira"
+	},
+	{
+		"color": "green",
+		"start": "2017-12-26",
+		"end": "2017-12-27 23:00:00",
+		"id": "2693_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2017-12-29",
+		"end": "2017-12-29 23:00:00",
+		"id": "2696_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2017-12-20",
+		"end": "2017-12-20 23:00:00",
+		"id": "2698_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2018-01-04",
+		"end": "2018-01-05 23:00:00",
+		"id": "2703_innovEleave_leaveApplication",
+		"title": "Yuen Kiat Cheong"
+	},
+	{
+		"color": "green",
+		"start": "2018-01-12",
+		"end": "2018-01-12 23:00:00",
+		"id": "2707_innovEleave_leaveApplication",
+		"title": "Sheat Yee Lau"
+	},
+	{
+		"color": "green",
+		"start": "2018-02-12",
+		"end": "2018-02-20 23:00:00",
+		"id": "2709_innovEleave_leaveApplication",
+		"title": "Jeremy Khaira"
+	},
+	{
+		"color": "green",
+		"start": "2018-02-15",
+		"end": "2018-02-21 23:00:00",
+		"id": "2710_innovEleave_leaveApplication",
+		"title": "Raymond Lau"
+	},
+	{
+		"color": "green",
+		"start": "2018-01-10",
+		"end": "2018-01-10 23:00:00",
+		"id": "2714_innovEleave_leaveApplication",
+		"title": "Marwan Ameen"
+	},
+	{
+		"color": "green",
+		"start": "2018-02-15",
+		"end": "2018-02-21 23:00:00",
+		"id": "2727_innovEleave_leaveApplication",
+		"title": "Sheat Yee Lau"
+	},
+	{
+		"color": "green",
+		"start": "2018-01-04",
+		"end": "2018-01-04 23:00:00",
+		"id": "2737_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2018-02-14",
+		"end": "2018-02-16 23:00:00",
+		"id": "2740_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2018-02-19",
+		"end": "2018-02-19 23:00:00",
+		"id": "2752_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2018-02-13",
+		"end": "2018-02-20 23:00:00",
+		"id": "2754_innovEleave_leaveApplication",
+		"title": "Kun-Hung Sze"
+	},
+	{
+		"color": "green",
+		"start": "2018-02-01",
+		"end": "2018-02-02 23:00:00",
+		"id": "2760_innovEleave_leaveApplication",
+		"title": "Sheat Yee Lau"
+	},
+	{
+		"color": "green",
+		"start": "2018-02-06",
+		"end": "2018-02-06 23:00:00",
+		"id": "2763_innovEleave_leaveApplication",
+		"title": "Marwan Ameen"
+	},
+	{
+		"color": "green",
+		"start": "2018-02-14",
+		"end": "2018-02-20 23:00:00",
+		"id": "2764_innovEleave_leaveApplication",
+		"title": "Yuen Kiat Cheong"
+	},
+	{
+		"color": "green",
+		"start": "2018-02-15",
+		"end": "2018-02-20 23:00:00",
+		"id": "2765_innovEleave_leaveApplication",
+		"title": "George Lee"
+	},
+	{
+		"color": "green",
+		"start": "2018-02-15",
+		"end": "2018-02-15 23:00:00",
+		"id": "2766_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2018-02-19",
+		"end": "2018-02-19 23:00:00",
+		"id": "2767_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2018-02-23",
+		"end": "2018-02-23 23:00:00",
+		"id": "2768_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2018-02-06",
+		"end": "2018-02-06 23:00:00",
+		"id": "2769_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2018-02-12",
+		"end": "2018-02-12 23:00:00",
+		"id": "2770_innovEleave_leaveApplication",
+		"title": "Sheat Yee Lau"
+	},
+	{
+		"color": "green",
+		"start": "2018-03-05",
+		"end": "2018-03-05 23:00:00",
+		"id": "2785_innovEleave_leaveApplication",
+		"title": "Tossy Permana Putra"
+	},
+	{
+		"color": "green",
+		"start": "2018-02-09",
+		"end": "2018-02-09 23:00:00",
+		"id": "2799_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2018-03-08",
+		"end": "2018-03-09 23:00:00",
+		"id": "2805_innovEleave_leaveApplication",
+		"title": "Tien-Soon Law"
+	},
+	{
+		"color": "green",
+		"start": "2018-02-28",
+		"end": "2018-02-28 23:00:00",
+		"id": "2806_innovEleave_leaveApplication",
+		"title": "Raymond Lau"
+	},
+	{
+		"color": "green",
+		"start": "2018-03-08",
+		"end": "2018-03-08 23:00:00",
+		"id": "2817_innovEleave_leaveApplication",
+		"title": "Jeremy Khaira"
+	},
+	{
+		"color": "green",
+		"start": "2018-06-10",
+		"end": "2018-06-18 23:00:00",
+		"id": "2821_innovEleave_leaveApplication",
+		"title": "Kun-Hung Sze"
+	},
+	{
+		"color": "green",
+		"start": "2018-04-06",
+		"end": "2018-04-06 23:00:00",
+		"id": "2822_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2018-06-13",
+		"end": "2018-06-21 23:00:00",
+		"id": "2824_innovEleave_leaveApplication",
+		"title": "Tossy Permana Putra"
+	},
+	{
+		"color": "green",
+		"start": "2018-03-02",
+		"end": "2018-03-06 23:00:00",
+		"id": "2834_innovEleave_leaveApplication",
+		"title": "Jeremy Khaira"
+	},
+	{
+		"color": "green",
+		"start": "2018-03-07",
+		"end": "2018-03-07 23:00:00",
+		"id": "2835_innovEleave_leaveApplication",
+		"title": "Jeremy Khaira"
+	},
+	{
+		"color": "green",
+		"start": "2018-03-19",
+		"end": "2018-03-19 23:00:00",
+		"id": "2838_innovEleave_leaveApplication",
+		"title": "Sheat Yee Lau"
+	},
+	{
+		"color": "green",
+		"start": "2018-03-14",
+		"end": "2018-03-14 23:00:00",
+		"id": "2840_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2018-09-20",
+		"end": "2018-10-02 23:00:00",
+		"id": "2841_innovEleave_leaveApplication",
+		"title": "Raymond Lau"
+	},
+	{
+		"color": "green",
+		"start": "2018-03-14",
+		"end": "2018-03-15 23:00:00",
+		"id": "2848_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2018-03-29",
+		"end": "2018-03-29 23:00:00",
+		"id": "2865_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2018-04-20",
+		"end": "2018-04-20 23:00:00",
+		"id": "2871_innovEleave_leaveApplication",
+		"title": "Jeremy Khaira"
+	},
+	{
+		"color": "green",
+		"start": "2018-04-03",
+		"end": "2018-04-03 23:00:00",
+		"id": "2875_innovEleave_leaveApplication",
+		"title": "Kun-Hung Sze"
+	},
+	{
+		"color": "green",
+		"start": "2018-05-28",
+		"end": "2018-05-28 23:00:00",
+		"id": "2876_innovEleave_leaveApplication",
+		"title": "Raymond Lau"
+	},
+	{
+		"color": "green",
+		"start": "2018-05-02",
+		"end": "2018-05-02 23:00:00",
+		"id": "2884_innovEleave_leaveApplication",
+		"title": "Sheat Yee Lau"
+	},
+	{
+		"color": "green",
+		"start": "2018-04-30",
+		"end": "2018-04-30 23:00:00",
+		"id": "2885_innovEleave_leaveApplication",
+		"title": "Yuen Kiat Cheong"
+	},
+	{
+		"color": "green",
+		"start": "2018-04-30",
+		"end": "2018-04-30 23:00:00",
+		"id": "2888_innovEleave_leaveApplication",
+		"title": "Tossy Permana Putra"
+	},
+	{
+		"color": "green",
+		"start": "2018-08-21",
+		"end": "2018-08-29 23:00:00",
+		"id": "2899_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2018-04-13",
+		"end": "2018-04-13 23:00:00",
+		"id": "2902_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2018-05-10",
+		"end": "2018-05-11 23:00:00",
+		"id": "2911_innovEleave_leaveApplication",
+		"title": "Yuen Kiat Cheong"
+	},
+	{
+		"color": "green",
+		"start": "2018-05-08",
+		"end": "2018-05-08 23:00:00",
+		"id": "2925_innovEleave_leaveApplication",
+		"title": "Sheat Yee Lau"
+	},
+	{
+		"color": "green",
+		"start": "2018-04-24",
+		"end": "2018-04-24 23:00:00",
+		"id": "2926_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2018-05-16",
+		"end": "2018-05-16 23:00:00",
+		"id": "2941_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2018-05-05",
+		"end": "2018-05-08 23:00:00",
+		"id": "2943_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2018-05-14",
+		"end": "2018-05-14 23:00:00",
+		"id": "2948_innovEleave_leaveApplication",
+		"title": "Sheat Yee Lau"
+	},
+	{
+		"color": "green",
+		"start": "2018-05-18",
+		"end": "2018-05-18 23:00:00",
+		"id": "2954_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2018-05-28",
+		"end": "2018-05-28 23:00:00",
+		"id": "2956_innovEleave_leaveApplication",
+		"title": "Sheat Yee Lau"
+	},
+	{
+		"color": "green",
+		"start": "2018-06-06",
+		"end": "2018-06-06 23:00:00",
+		"id": "2981_innovEleave_leaveApplication",
+		"title": "Kun-Hung Sze"
+	},
+	{
+		"color": "green",
+		"start": "2018-06-01",
+		"end": "2018-06-01 23:00:00",
+		"id": "2988_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2018-11-16",
+		"end": "2018-11-27 23:00:00",
+		"id": "2990_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2018-06-05",
+		"end": "2018-06-05 23:00:00",
+		"id": "2991_innovEleave_leaveApplication",
+		"title": "George Lee"
+	},
+	{
+		"color": "green",
+		"start": "2018-11-05",
+		"end": "2018-11-05 23:00:00",
+		"id": "2993_innovEleave_leaveApplication",
+		"title": "George Lee"
+	},
+	{
+		"color": "green",
+		"start": "2018-06-11",
+		"end": "2018-06-11 23:00:00",
+		"id": "2994_innovEleave_leaveApplication",
+		"title": "George Lee"
+	},
+	{
+		"color": "green",
+		"start": "2018-06-18",
+		"end": "2018-06-18 23:00:00",
+		"id": "2998_innovEleave_leaveApplication",
+		"title": "Marwan Ameen"
+	},
+	{
+		"color": "green",
+		"start": "2018-06-18",
+		"end": "2018-06-18 23:00:00",
+		"id": "3000_innovEleave_leaveApplication",
+		"title": "Thet Paing Tun"
+	},
+	{
+		"color": "green",
+		"start": "2018-06-08",
+		"end": "2018-06-08 23:00:00",
+		"id": "3001_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2018-12-28",
+		"end": "2018-12-31 23:00:00",
+		"id": "3016_innovEleave_leaveApplication",
+		"title": "Raymond Lau"
+	},
+	{
+		"color": "green",
+		"start": "2018-06-21",
+		"end": "2018-06-21 23:00:00",
+		"id": "3020_innovEleave_leaveApplication",
+		"title": "Marwan Ameen"
+	},
+	{
+		"color": "green",
+		"start": "2018-06-18",
+		"end": "2018-06-20 23:00:00",
+		"id": "3024_innovEleave_leaveApplication",
+		"title": "Jeremy Khaira"
+	},
+	{
+		"color": "green",
+		"start": "2018-07-06",
+		"end": "2018-07-06 23:00:00",
+		"id": "3051_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2018-07-06",
+		"end": "2018-07-06 23:00:00",
+		"id": "3055_innovEleave_leaveApplication",
+		"title": "Raymond Lau"
+	},
+	{
+		"color": "green",
+		"start": "2018-12-10",
+		"end": "2018-12-10 23:00:00",
+		"id": "3056_innovEleave_leaveApplication",
+		"title": "Yuen Kiat Cheong"
+	},
+	{
+		"color": "green",
+		"start": "2018-12-21",
+		"end": "2018-12-25 23:00:00",
+		"id": "3057_innovEleave_leaveApplication",
+		"title": "Yuen Kiat Cheong"
+	},
+	{
+		"color": "green",
+		"start": "2018-07-13",
+		"end": "2018-07-13 23:00:00",
+		"id": "3058_innovEleave_leaveApplication",
+		"title": "Jeremy Khaira"
+	},
+	{
+		"color": "green",
+		"start": "2018-07-10",
+		"end": "2018-07-10 23:00:00",
+		"id": "3059_innovEleave_leaveApplication",
+		"title": "Thet Paing Tun"
+	},
+	{
+		"color": "green",
+		"start": "2018-07-13",
+		"end": "2018-07-16 23:00:00",
+		"id": "3062_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2018-07-23",
+		"end": "2018-07-23 23:00:00",
+		"id": "3063_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2018-07-13",
+		"end": "2018-07-13 23:00:00",
+		"id": "3064_innovEleave_leaveApplication",
+		"title": "Kun-Hung Sze"
+	},
+	{
+		"color": "green",
+		"start": "2018-07-16",
+		"end": "2018-07-16 23:00:00",
+		"id": "3065_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2018-07-16",
+		"end": "2018-07-16 23:00:00",
+		"id": "3066_innovEleave_leaveApplication",
+		"title": "Yuen Kiat Cheong"
+	},
+	{
+		"color": "green",
+		"start": "2018-07-18",
+		"end": "2018-07-18 23:00:00",
+		"id": "3067_innovEleave_leaveApplication",
+		"title": "Marwan Ameen"
+	},
+	{
+		"color": "green",
+		"start": "2018-07-23",
+		"end": "2018-07-23 23:00:00",
+		"id": "3080_innovEleave_leaveApplication",
+		"title": "Marwan Ameen"
+	},
+	{
+		"color": "green",
+		"start": "2018-08-03",
+		"end": "2018-08-03 23:00:00",
+		"id": "3118_innovEleave_leaveApplication",
+		"title": "Marwan Ameen"
+	},
+	{
+		"color": "green",
+		"start": "2018-08-02",
+		"end": "2018-08-02 23:00:00",
+		"id": "3119_innovEleave_leaveApplication",
+		"title": "Thet Paing Tun"
+	},
+	{
+		"color": "green",
+		"start": "2018-08-06",
+		"end": "2018-08-08 23:00:00",
+		"id": "3124_innovEleave_leaveApplication",
+		"title": "Jeremy Khaira"
+	},
+	{
+		"color": "green",
+		"start": "2018-08-07",
+		"end": "2018-08-07 23:00:00",
+		"id": "3129_innovEleave_leaveApplication",
+		"title": "Marwan Ameen"
+	},
+	{
+		"color": "green",
+		"start": "2018-12-15",
+		"end": "2018-12-31 23:00:00",
+		"id": "3139_innovEleave_leaveApplication",
+		"title": "Thet Paing Tun"
+	},
+	{
+		"color": "green",
+		"start": "2019-01-01",
+		"end": "2019-01-04 23:00:00",
+		"id": "3140_innovEleave_leaveApplication",
+		"title": "Thet Paing Tun"
+	},
+	{
+		"color": "green",
+		"start": "2018-10-12",
+		"end": "2018-10-15 23:00:00",
+		"id": "3141_innovEleave_leaveApplication",
+		"title": "Sheat Yee Lau"
+	},
+	{
+		"color": "green",
+		"start": "2018-11-23",
+		"end": "2018-11-26 23:00:00",
+		"id": "3142_innovEleave_leaveApplication",
+		"title": "Sheat Yee Lau"
+	},
+	{
+		"color": "green",
+		"start": "2019-01-02",
+		"end": "2019-01-03 23:00:00",
+		"id": "3143_innovEleave_leaveApplication",
+		"title": "Raymond Lau"
+	},
+	{
+		"color": "green",
+		"start": "2018-08-14",
+		"end": "2018-08-14 23:00:00",
+		"id": "3150_innovEleave_leaveApplication",
+		"title": "Raymond Lau"
+	},
+	{
+		"color": "green",
+		"start": "2018-08-13",
+		"end": "2018-08-13 23:00:00",
+		"id": "3151_innovEleave_leaveApplication",
+		"title": "Sheat Yee Lau"
+	},
+	{
+		"color": "green",
+		"start": "2018-08-16",
+		"end": "2018-08-16 23:00:00",
+		"id": "3153_innovEleave_leaveApplication",
+		"title": "Yuen Kiat Cheong"
+	},
+	{
+		"color": "green",
+		"start": "2018-08-16",
+		"end": "2018-08-16 23:00:00",
+		"id": "3156_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2018-08-20",
+		"end": "2018-08-20 23:00:00",
+		"id": "3162_innovEleave_leaveApplication",
+		"title": "Marwan Ameen"
+	},
+	{
+		"color": "green",
+		"start": "2018-09-07",
+		"end": "2018-09-07 23:00:00",
+		"id": "3163_innovEleave_leaveApplication",
+		"title": "Tossy Permana Putra"
+	},
+	{
+		"color": "green",
+		"start": "2018-08-24",
+		"end": "2018-08-24 23:00:00",
+		"id": "3175_innovEleave_leaveApplication",
+		"title": "Kun-Hung Sze"
+	},
+	{
+		"color": "green",
+		"start": "2018-09-05",
+		"end": "2018-09-05 23:00:00",
+		"id": "3197_innovEleave_leaveApplication",
+		"title": "Sheat Yee Lau"
+	},
+	{
+		"color": "green",
+		"start": "2018-09-04",
+		"end": "2018-09-04 23:00:00",
+		"id": "3200_innovEleave_leaveApplication",
+		"title": "Thet Paing Tun"
+	},
+	{
+		"color": "green",
+		"start": "2018-09-07",
+		"end": "2018-09-07 23:00:00",
+		"id": "3202_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2018-09-14",
+		"end": "2018-09-14 23:00:00",
+		"id": "3209_innovEleave_leaveApplication",
+		"title": "Sheat Yee Lau"
+	},
+	{
+		"color": "green",
+		"start": "2018-10-19",
+		"end": "2018-10-19 23:00:00",
+		"id": "3218_innovEleave_leaveApplication",
+		"title": "Sheat Yee Lau"
+	},
+	{
+		"color": "green",
+		"start": "2018-09-28",
+		"end": "2018-09-28 23:00:00",
+		"id": "3235_innovEleave_leaveApplication",
+		"title": "Kun-Hung Sze"
+	},
+	{
+		"color": "green",
+		"start": "2018-12-24",
+		"end": "2018-12-31 23:00:00",
+		"id": "3243_innovEleave_leaveApplication",
+		"title": "Tossy Permana Putra"
+	},
+	{
+		"color": "green",
+		"start": "2018-10-05",
+		"end": "2018-10-05 23:00:00",
+		"id": "3248_innovEleave_leaveApplication",
+		"title": "Neil Lim"
+	},
+	{
+		"color": "green",
+		"start": "2018-10-11",
+		"end": "2018-10-11 23:00:00",
+		"id": "3262_innovEleave_leaveApplication",
+		"title": "Kun-Hung Sze"
+	},
+	{
+		"color": "green",
+		"start": "2018-10-08",
+		"end": "2018-10-08 23:00:00",
+		"id": "3269_innovEleave_leaveApplication",
+		"title": "Nathan (Yuen Kiat) Cheong"
+	},
+	{
+		"color": "green",
+		"start": "2018-10-11",
+		"end": "2018-10-11 23:00:00",
+		"id": "3270_innovEleave_leaveApplication",
+		"title": "Neil Lim"
+	},
+	{
+		"color": "green",
+		"start": "2018-10-11",
+		"end": "2018-10-11 23:00:00",
+		"id": "3271_innovEleave_leaveApplication",
+		"title": "Leon Wong"
+	},
+	{
+		"color": "green",
+		"start": "2018-10-12",
+		"end": "2018-10-12 23:00:00",
+		"id": "3273_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2018-10-19",
+		"end": "2018-10-19 23:00:00",
+		"id": "3287_innovEleave_leaveApplication",
+		"title": "Leon Wong"
+	},
+	{
+		"color": "green",
+		"start": "2018-11-15",
+		"end": "2018-11-16 23:00:00",
+		"id": "3288_innovEleave_leaveApplication",
+		"title": "Nathan (Yuen Kiat) Cheong"
+	},
+	{
+		"color": "green",
+		"start": "2018-10-26",
+		"end": "2018-10-26 23:00:00",
+		"id": "3300_innovEleave_leaveApplication",
+		"title": "Kun-Hung Sze"
+	},
+	{
+		"color": "green",
+		"start": "2018-10-26",
+		"end": "2018-10-26 23:00:00",
+		"id": "3301_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2018-10-25",
+		"end": "2018-10-25 23:00:00",
+		"id": "3303_innovEleave_leaveApplication",
+		"title": "Leon Wong"
+	},
+	{
+		"color": "green",
+		"start": "2018-12-13",
+		"end": "2018-12-14 23:00:00",
+		"id": "3306_innovEleave_leaveApplication",
+		"title": "Jeremy Khaira"
+	},
+	{
+		"color": "green",
+		"start": "2018-10-31",
+		"end": "2018-10-31 23:00:00",
+		"id": "3319_innovEleave_leaveApplication",
+		"title": "Kun-Hung Sze"
+	},
+	{
+		"color": "green",
+		"start": "2018-11-02",
+		"end": "2018-11-02 23:00:00",
+		"id": "3320_innovEleave_leaveApplication",
+		"title": "Neil Lim"
+	},
+	{
+		"color": "green",
+		"start": "2018-11-28",
+		"end": "2018-11-28 23:00:00",
+		"id": "3321_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2018-11-12",
+		"end": "2018-11-12 23:00:00",
+		"id": "3329_innovEleave_leaveApplication",
+		"title": "Kun-Hung Sze"
+	},
+	{
+		"color": "green",
+		"start": "2018-11-13",
+		"end": "2018-11-13 23:00:00",
+		"id": "3338_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2018-11-21",
+		"end": "2018-11-22 23:00:00",
+		"id": "3342_innovEleave_leaveApplication",
+		"title": "Aaron Nathaniel"
+	},
+	{
+		"color": "green",
+		"start": "2018-12-04",
+		"end": "2018-12-04 23:00:00",
+		"id": "3362_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2018-12-26",
+		"end": "2018-12-26 23:00:00",
+		"id": "3363_innovEleave_leaveApplication",
+		"title": "Nathan (Yuen Kiat) Cheong"
+	},
+	{
+		"color": "green",
+		"start": "2018-12-19",
+		"end": "2018-12-21 23:00:00",
+		"id": "3368_innovEleave_leaveApplication",
+		"title": "Tien-Soon Law"
+	},
+	{
+		"color": "green",
+		"start": "2018-12-26",
+		"end": "2018-12-26 23:00:00",
+		"id": "3379_innovEleave_leaveApplication",
+		"title": "Neil Lim"
+	},
+	{
+		"color": "green",
+		"start": "2018-12-31",
+		"end": "2018-12-31 23:00:00",
+		"id": "3388_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2018-12-24",
+		"end": "2018-12-27 23:00:00",
+		"id": "3398_innovEleave_leaveApplication",
+		"title": "Aaron Nathaniel"
+	},
+	{
+		"color": "green",
+		"start": "2018-12-21",
+		"end": "2018-12-21 23:00:00",
+		"id": "3405_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2018-12-24",
+		"end": "2018-12-24 23:00:00",
+		"id": "3408_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2018-12-31",
+		"end": "2018-12-31 23:00:00",
+		"id": "3409_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2018-12-28",
+		"end": "2018-12-29 23:00:00",
+		"id": "3419_innovEleave_leaveApplication",
+		"title": "Aaron Nathaniel"
+	},
+	{
+		"color": "green",
+		"start": "2018-12-28",
+		"end": "2018-12-28 23:00:00",
+		"id": "3420_innovEleave_leaveApplication",
+		"title": "Kun-Hung Sze"
+	},
+	{
+		"color": "green",
+		"start": "2018-12-31",
+		"end": "2018-12-31 23:00:00",
+		"id": "3421_innovEleave_leaveApplication",
+		"title": "Kun-Hung Sze"
+	},
+	{
+		"color": "green",
+		"start": "2018-12-31",
+		"end": "2018-12-31 23:00:00",
+		"id": "3423_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2019-01-07",
+		"end": "2019-01-07 23:00:00",
+		"id": "3424_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2019-01-25",
+		"end": "2019-02-04 23:00:00",
+		"id": "3438_innovEleave_leaveApplication",
+		"title": "Neil Lim"
+	},
+	{
+		"color": "green",
+		"start": "2019-01-09",
+		"end": "2019-01-09 23:00:00",
+		"id": "3439_innovEleave_leaveApplication",
+		"title": "Sheat Yee Lau"
+	},
+	{
+		"color": "green",
+		"start": "2019-01-22",
+		"end": "2019-01-22 23:00:00",
+		"id": "3440_innovEleave_leaveApplication",
+		"title": "Sheat Yee Lau"
+	},
+	{
+		"color": "green",
+		"start": "2019-02-15",
+		"end": "2019-02-15 23:00:00",
+		"id": "3441_innovEleave_leaveApplication",
+		"title": "Sheat Yee Lau"
+	},
+	{
+		"color": "green",
+		"start": "2019-02-01",
+		"end": "2019-02-08 23:00:00",
+		"id": "3442_innovEleave_leaveApplication",
+		"title": "Nathan (Yuen Kiat) Cheong"
+	},
+	{
+		"color": "green",
+		"start": "2019-02-04",
+		"end": "2019-02-08 23:00:00",
+		"id": "3446_innovEleave_leaveApplication",
+		"title": "Sheat Yee Lau"
+	},
+	{
+		"color": "green",
+		"start": "2019-04-09",
+		"end": "2019-04-17 23:00:00",
+		"id": "3447_innovEleave_leaveApplication",
+		"title": "Sheat Yee Lau"
+	},
+	{
+		"color": "green",
+		"start": "2019-01-04",
+		"end": "2019-01-04 23:00:00",
+		"id": "3451_innovEleave_leaveApplication",
+		"title": "Raymond Lau"
+	},
+	{
+		"color": "green",
+		"start": "2019-01-25",
+		"end": "2019-02-07 23:00:00",
+		"id": "3454_innovEleave_leaveApplication",
+		"title": "Jeremy Khaira"
+	},
+	{
+		"color": "green",
+		"start": "2019-05-11",
+		"end": "2019-05-18 23:00:00",
+		"id": "3455_innovEleave_leaveApplication",
+		"title": "Kun-Hung Sze"
+	},
+	{
+		"color": "green",
+		"start": "2019-02-01",
+		"end": "2019-02-11 23:00:00",
+		"id": "3456_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2019-04-01",
+		"end": "2019-04-05 23:00:00",
+		"id": "3457_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2019-02-04",
+		"end": "2019-02-07 23:00:00",
+		"id": "3458_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2019-02-04",
+		"end": "2019-02-08 23:00:00",
+		"id": "3466_innovEleave_leaveApplication",
+		"title": "Raymond Lau"
+	},
+	{
+		"color": "green",
+		"start": "2019-01-14",
+		"end": "2019-01-14 23:00:00",
+		"id": "3467_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2019-01-24",
+		"end": "2019-01-25 23:00:00",
+		"id": "3469_innovEleave_leaveApplication",
+		"title": "Aaron Nathaniel"
+	},
+	{
+		"color": "green",
+		"start": "2019-01-18",
+		"end": "2019-01-18 23:00:00",
+		"id": "3476_innovEleave_leaveApplication",
+		"title": "Aaron Nathaniel"
+	},
+	{
+		"color": "green",
+		"start": "2019-01-28",
+		"end": "2019-01-28 23:00:00",
+		"id": "3477_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2019-02-07",
+		"end": "2019-02-07 23:00:00",
+		"id": "3485_innovEleave_leaveApplication",
+		"title": "Jeremy Khaira"
+	},
+	{
+		"color": "green",
+		"start": "2019-01-23",
+		"end": "2019-01-23 23:00:00",
+		"id": "3487_innovEleave_leaveApplication",
+		"title": "Sheat Yee Lau"
+	},
+	{
+		"color": "green",
+		"start": "2019-02-04",
+		"end": "2019-02-07 23:00:00",
+		"id": "3495_innovEleave_leaveApplication",
+		"title": "Pat Yih Yap"
+	},
+	{
+		"color": "green",
+		"start": "2019-01-31",
+		"end": "2019-02-08 23:00:00",
+		"id": "3501_innovEleave_leaveApplication",
+		"title": "George Lee"
+	},
+	{
+		"color": "green",
+		"start": "2019-02-04",
+		"end": "2019-02-04 23:00:00",
+		"id": "3502_innovEleave_leaveApplication",
+		"title": "Kun-Hung Sze"
+	},
+	{
+		"color": "green",
+		"start": "2019-02-12",
+		"end": "2019-02-13 23:00:00",
+		"id": "3506_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2019-01-30",
+		"end": "2019-01-30 23:00:00",
+		"id": "3508_innovEleave_leaveApplication",
+		"title": "Aaron Nathaniel"
+	},
+	{
+		"color": "green",
+		"start": "2019-01-31",
+		"end": "2019-01-31 23:00:00",
+		"id": "3510_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2019-06-03",
+		"end": "2019-06-12 23:00:00",
+		"id": "3511_innovEleave_leaveApplication",
+		"title": "Tossy Permana Putra"
+	},
+	{
+		"color": "green",
+		"start": "2019-02-07",
+		"end": "2019-02-08 23:00:00",
+		"id": "3514_innovEleave_leaveApplication",
+		"title": "Kun-Hung Sze"
+	},
+	{
+		"color": "green",
+		"start": "2019-02-08",
+		"end": "2019-02-08 23:00:00",
+		"id": "3524_innovEleave_leaveApplication",
+		"title": "Noor Soogund"
+	},
+	{
+		"color": "green",
+		"start": "2019-05-21",
+		"end": "2019-05-21 23:00:00",
+		"id": "3527_innovEleave_leaveApplication",
+		"title": "Nathan (Yuen Kiat) Cheong"
+	},
+	{
+		"color": "green",
+		"start": "2019-02-13",
+		"end": "2019-02-13 23:00:00",
+		"id": "3529_innovEleave_leaveApplication",
+		"title": "Aiman Alsharai"
+	},
+	{
+		"color": "green",
+		"start": "2019-03-11",
+		"end": "2019-03-11 23:00:00",
+		"id": "3556_innovEleave_leaveApplication",
+		"title": "Tossy Permana Putra"
+	},
+	{
+		"color": "green",
+		"start": "2019-06-03",
+		"end": "2019-06-14 23:00:00",
+		"id": "3558_innovEleave_leaveApplication",
+		"title": "Thet Paing Tun"
+	},
+	{
+		"color": "green",
+		"start": "2019-05-21",
+		"end": "2019-05-24 23:00:00",
+		"id": "3583_innovEleave_leaveApplication",
+		"title": "Raymond Lau"
+	},
+	{
+		"color": "green",
+		"start": "2019-04-25",
+		"end": "2019-04-28 23:00:00",
+		"id": "3584_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2019-03-11",
+		"end": "2019-03-11 23:00:00",
+		"id": "3603_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2019-05-20",
+		"end": "2019-05-24 23:00:00",
+		"id": "3604_innovEleave_leaveApplication",
+		"title": "George Lee"
+	},
+	{
+		"color": "green",
+		"start": "2019-03-08",
+		"end": "2019-03-08 23:00:00",
+		"id": "3605_innovEleave_leaveApplication",
+		"title": "George Lee"
+	},
+	{
+		"color": "green",
+		"start": "2019-03-18",
+		"end": "2019-03-20 23:00:00",
+		"id": "3610_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2019-06-07",
+		"end": "2019-06-07 23:00:00",
+		"id": "3611_innovEleave_leaveApplication",
+		"title": "Nathan (Yuen Kiat) Cheong"
+	},
+	{
+		"color": "green",
+		"start": "2019-09-03",
+		"end": "2019-09-10 23:00:00",
+		"id": "3619_innovEleave_leaveApplication",
+		"title": "Raymond Lau"
+	},
+	{
+		"color": "green",
+		"start": "2019-03-18",
+		"end": "2019-03-18 23:00:00",
+		"id": "3622_innovEleave_leaveApplication",
+		"title": "Aiman Alsharai"
+	},
+	{
+		"color": "green",
+		"start": "2019-03-19",
+		"end": "2019-03-19 23:00:00",
+		"id": "3628_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2019-03-14",
+		"end": "2019-03-14 23:00:00",
+		"id": "3630_innovEleave_leaveApplication",
+		"title": "Sheat Yee Lau"
+	},
+	{
+		"color": "green",
+		"start": "2019-03-25",
+		"end": "2019-03-25 23:00:00",
+		"id": "3636_innovEleave_leaveApplication",
+		"title": "Jeremy Khaira"
+	},
+	{
+		"color": "green",
+		"start": "2019-03-26",
+		"end": "2019-03-26 23:00:00",
+		"id": "3637_innovEleave_leaveApplication",
+		"title": "Aaron Nathaniel"
+	},
+	{
+		"color": "green",
+		"start": "2019-03-26",
+		"end": "2019-03-26 23:00:00",
+		"id": "3645_innovEleave_leaveApplication",
+		"title": "Aiman Alsharai"
+	},
+	{
+		"color": "green",
+		"start": "2019-10-21",
+		"end": "2019-10-25 23:00:00",
+		"id": "3647_innovEleave_leaveApplication",
+		"title": "Nathan (Yuen Kiat) Cheong"
+	},
+	{
+		"color": "green",
+		"start": "2019-03-28",
+		"end": "2019-03-29 23:00:00",
+		"id": "3654_innovEleave_leaveApplication",
+		"title": "Neil Lim"
+	},
+	{
+		"color": "green",
+		"start": "2019-04-04",
+		"end": "2019-04-04 23:00:00",
+		"id": "3655_innovEleave_leaveApplication",
+		"title": "Victor Lee"
+	},
+	{
+		"color": "green",
+		"start": "2019-04-08",
+		"end": "2019-04-08 23:00:00",
+		"id": "3656_innovEleave_leaveApplication",
+		"title": "Victor Lee"
+	},
+	{
+		"color": "green",
+		"start": "2019-04-01",
+		"end": "2019-04-01 23:00:00",
+		"id": "3658_innovEleave_leaveApplication",
+		"title": "Aiman Alsharai"
+	},
+	{
+		"color": "green",
+		"start": "2019-04-08",
+		"end": "2019-04-09 23:00:00",
+		"id": "3659_innovEleave_leaveApplication",
+		"title": "Aiman Alsharai"
+	},
+	{
+		"color": "green",
+		"start": "2019-06-07",
+		"end": "2019-06-07 23:00:00",
+		"id": "3664_innovEleave_leaveApplication",
+		"title": "Neil Lim"
+	},
+	{
+		"color": "green",
+		"start": "2019-04-04",
+		"end": "2019-04-05 23:00:00",
+		"id": "3665_innovEleave_leaveApplication",
+		"title": "Pat Yih Yap"
+	},
+	{
+		"color": "green",
+		"start": "2019-04-08",
+		"end": "2019-04-12 23:00:00",
+		"id": "3681_innovEleave_leaveApplication",
+		"title": "Pat Yih Yap"
+	},
+	{
+		"color": "green",
+		"start": "2019-04-08",
+		"end": "2019-04-08 23:00:00",
+		"id": "3685_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2019-04-26",
+		"end": "2019-04-26 23:00:00",
+		"id": "3686_innovEleave_leaveApplication",
+		"title": "Tossy Permana Putra"
+	},
+	{
+		"color": "green",
+		"start": "2019-05-24",
+		"end": "2019-06-07 23:00:00",
+		"id": "3687_innovEleave_leaveApplication",
+		"title": "Micol Chan"
+	},
+	{
+		"color": "green",
+		"start": "2019-04-11",
+		"end": "2019-04-11 23:00:00",
+		"id": "3690_innovEleave_leaveApplication",
+		"title": "Victor Lee"
+	},
+	{
+		"color": "green",
+		"start": "2019-04-22",
+		"end": "2019-04-22 23:00:00",
+		"id": "3691_innovEleave_leaveApplication",
+		"title": "Victor Lee"
+	},
+	{
+		"color": "green",
+		"start": "2019-04-25",
+		"end": "2019-04-26 23:00:00",
+		"id": "3695_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2019-04-19",
+		"end": "2019-04-19 23:00:00",
+		"id": "3696_innovEleave_leaveApplication",
+		"title": "Victor Lee"
+	},
+	{
+		"color": "green",
+		"start": "2019-04-17",
+		"end": "2019-04-17 23:00:00",
+		"id": "3702_innovEleave_leaveApplication",
+		"title": "Pat Yih Yap"
+	},
+	{
+		"color": "green",
+		"start": "2019-10-25",
+		"end": "2019-10-29 23:00:00",
+		"id": "3703_innovEleave_leaveApplication",
+		"title": "Sheat Yee Lau"
+	},
+	{
+		"color": "green",
+		"start": "2019-04-23",
+		"end": "2019-04-26 23:00:00",
+		"id": "3706_innovEleave_leaveApplication",
+		"title": "Aiman Alsharai"
+	},
+	{
+		"color": "green",
+		"start": "2019-04-26",
+		"end": "2019-04-30 23:00:00",
+		"id": "3709_innovEleave_leaveApplication",
+		"title": "Thet Paing Tun"
+	},
+	{
+		"color": "green",
+		"start": "2019-04-29",
+		"end": "2019-04-29 23:00:00",
+		"id": "3710_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2019-04-19",
+		"end": "2019-04-19 23:00:00",
+		"id": "3711_innovEleave_leaveApplication",
+		"title": "Nur Amira Kamarudin"
+	},
+	{
+		"color": "green",
+		"start": "2019-05-09",
+		"end": "2019-05-09 23:00:00",
+		"id": "3727_innovEleave_leaveApplication",
+		"title": "Sheat Yee Lau"
+	},
+	{
+		"color": "green",
+		"start": "2019-05-17",
+		"end": "2019-05-17 23:00:00",
+		"id": "3729_innovEleave_leaveApplication",
+		"title": "Pat Yih Yap"
+	},
+	{
+		"color": "green",
+		"start": "2019-04-25",
+		"end": "2019-04-25 23:00:00",
+		"id": "3734_innovEleave_leaveApplication",
+		"title": "Pat Yih Yap"
+	},
+	{
+		"color": "green",
+		"start": "2019-05-02",
+		"end": "2019-05-02 23:00:00",
+		"id": "3735_innovEleave_leaveApplication",
+		"title": "Pat Yih Yap"
+	},
+	{
+		"color": "green",
+		"start": "2019-05-02",
+		"end": "2019-05-02 23:00:00",
+		"id": "3738_innovEleave_leaveApplication",
+		"title": "Nur Amira Kamarudin"
+	},
+	{
+		"color": "green",
+		"start": "2019-05-08",
+		"end": "2019-05-08 23:00:00",
+		"id": "3740_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2019-05-21",
+		"end": "2019-05-21 23:00:00",
+		"id": "3741_innovEleave_leaveApplication",
+		"title": "Hao Xuan Chai"
+	},
+	{
+		"color": "green",
+		"start": "2019-09-13",
+		"end": "2019-09-16 23:00:00",
+		"id": "3743_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2019-12-25",
+		"end": "2019-12-31 23:00:00",
+		"id": "3746_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2019-05-08",
+		"end": "2019-05-08 23:00:00",
+		"id": "3750_innovEleave_leaveApplication",
+		"title": "Tossy Permana Putra"
+	},
+	{
+		"color": "green",
+		"start": "2019-05-23",
+		"end": "2019-05-24 23:00:00",
+		"id": "3753_innovEleave_leaveApplication",
+		"title": "Aaron Nathaniel"
+	},
+	{
+		"color": "green",
+		"start": "2019-05-21",
+		"end": "2019-05-21 23:00:00",
+		"id": "3757_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2019-05-21",
+		"end": "2019-05-21 23:00:00",
+		"id": "3759_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2019-05-15",
+		"end": "2019-05-15 23:00:00",
+		"id": "3761_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2019-05-15",
+		"end": "2019-05-17 23:00:00",
+		"id": "3764_innovEleave_leaveApplication",
+		"title": "Aaron Nathaniel"
+	},
+	{
+		"color": "green",
+		"start": "2019-06-03",
+		"end": "2019-06-07 23:00:00",
+		"id": "3766_innovEleave_leaveApplication",
+		"title": "Nur Amira Kamarudin"
+	},
+	{
+		"color": "green",
+		"start": "2019-05-17",
+		"end": "2019-05-17 23:00:00",
+		"id": "3767_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2019-05-21",
+		"end": "2019-05-21 23:00:00",
+		"id": "3770_innovEleave_leaveApplication",
+		"title": "Noor Soogund"
+	},
+	{
+		"color": "green",
+		"start": "2019-05-21",
+		"end": "2019-05-21 23:00:00",
+		"id": "3781_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2019-06-11",
+		"end": "2019-06-11 23:00:00",
+		"id": "3798_innovEleave_leaveApplication",
+		"title": "Ken-Wei Lim"
+	},
+	{
+		"color": "green",
+		"start": "2019-05-30",
+		"end": "2019-05-31 23:00:00",
+		"id": "3799_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2019-06-07",
+		"end": "2019-06-07 23:00:00",
+		"id": "3803_innovEleave_leaveApplication",
+		"title": "Noor Soogund"
+	},
+	{
+		"color": "green",
+		"start": "2019-06-03",
+		"end": "2019-06-04 23:00:00",
+		"id": "3808_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2019-06-10",
+		"end": "2019-06-10 23:00:00",
+		"id": "3812_innovEleave_leaveApplication",
+		"title": "Hao Xuan Chai"
+	},
+	{
+		"color": "green",
+		"start": "2019-06-13",
+		"end": "2019-06-13 23:00:00",
+		"id": "3815_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2019-06-21",
+		"end": "2019-06-24 23:00:00",
+		"id": "3816_innovEleave_leaveApplication",
+		"title": "Victor Lee"
+	},
+	{
+		"color": "green",
+		"start": "2019-06-14",
+		"end": "2019-06-14 23:00:00",
+		"id": "3817_innovEleave_leaveApplication",
+		"title": "Aaron Nathaniel"
+	},
+	{
+		"color": "green",
+		"start": "2019-06-21",
+		"end": "2019-06-21 23:00:00",
+		"id": "3837_innovEleave_leaveApplication",
+		"title": "Aaron Nathaniel"
+	},
+	{
+		"color": "green",
+		"start": "2019-06-14",
+		"end": "2019-06-14 23:00:00",
+		"id": "3841_innovEleave_leaveApplication",
+		"title": "Nathan (Yuen Kiat) Cheong"
+	},
+	{
+		"color": "green",
+		"start": "2019-07-10",
+		"end": "2019-07-10 23:00:00",
+		"id": "3884_innovEleave_leaveApplication",
+		"title": "Zainab Naeem"
+	},
+	{
+		"color": "green",
+		"start": "2019-07-09",
+		"end": "2019-07-09 23:00:00",
+		"id": "3887_innovEleave_leaveApplication",
+		"title": "Aaron Nathaniel"
+	},
+	{
+		"color": "green",
+		"start": "2019-07-11",
+		"end": "2019-07-11 23:00:00",
+		"id": "3895_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2019-09-05",
+		"end": "2019-09-06 23:00:00",
+		"id": "3901_innovEleave_leaveApplication",
+		"title": "Nathan (Yuen Kiat) Cheong"
+	},
+	{
+		"color": "green",
+		"start": "2019-08-09",
+		"end": "2019-08-09 23:00:00",
+		"id": "3902_innovEleave_leaveApplication",
+		"title": "Kun-Hung Sze"
+	},
+	{
+		"color": "green",
+		"start": "2019-07-22",
+		"end": "2019-07-22 23:00:00",
+		"id": "3917_innovEleave_leaveApplication",
+		"title": "Nur Amira Kamarudin"
+	},
+	{
+		"color": "green",
+		"start": "2019-07-22",
+		"end": "2019-07-22 23:00:00",
+		"id": "3919_innovEleave_leaveApplication",
+		"title": "Hao Xuan Chai"
+	},
+	{
+		"color": "green",
+		"start": "2019-07-23",
+		"end": "2019-07-23 23:00:00",
+		"id": "3924_innovEleave_leaveApplication",
+		"title": "Nur Amira Kamarudin"
+	},
+	{
+		"color": "green",
+		"start": "2019-07-25",
+		"end": "2019-07-26 23:00:00",
+		"id": "3929_innovEleave_leaveApplication",
+		"title": "Hao Xuan Chai"
+	},
+	{
+		"color": "green",
+		"start": "2019-08-02",
+		"end": "2019-08-02 23:00:00",
+		"id": "3940_innovEleave_leaveApplication",
+		"title": "Neil Lim"
+	},
+	{
+		"color": "green",
+		"start": "2019-08-23",
+		"end": "2019-08-26 23:00:00",
+		"id": "3946_innovEleave_leaveApplication",
+		"title": "Tossy Permana Putra"
+	},
+	{
+		"color": "green",
+		"start": "2019-08-07",
+		"end": "2019-08-07 23:00:00",
+		"id": "3950_innovEleave_leaveApplication",
+		"title": "Neil Lim"
+	},
+	{
+		"color": "green",
+		"start": "2019-08-14",
+		"end": "2019-08-14 23:00:00",
+		"id": "3975_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2019-09-03",
+		"end": "2019-09-03 23:00:00",
+		"id": "3976_innovEleave_leaveApplication",
+		"title": "Kien-Fei Low"
+	},
+	{
+		"color": "green",
+		"start": "2019-08-16",
+		"end": "2019-08-16 23:00:00",
+		"id": "3978_innovEleave_leaveApplication",
+		"title": "Hao-Xuan Chai"
+	},
+	{
+		"color": "green",
+		"start": "2019-09-06",
+		"end": "2019-09-06 23:00:00",
+		"id": "3983_innovEleave_leaveApplication",
+		"title": "Kun-Hung Sze"
+	},
+	{
+		"color": "green",
+		"start": "2019-09-17",
+		"end": "2019-09-18 23:00:00",
+		"id": "3987_innovEleave_leaveApplication",
+		"title": "Azleen Shazwani Ahmad Tarmizi"
+	},
+	{
+		"color": "green",
+		"start": "2019-08-16",
+		"end": "2019-08-16 23:00:00",
+		"id": "3989_innovEleave_leaveApplication",
+		"title": "Jin-Xuan Tan"
+	},
+	{
+		"color": "green",
+		"start": "2019-12-22",
+		"end": "2019-12-31 23:00:00",
+		"id": "3994_innovEleave_leaveApplication",
+		"title": "Noor Soogund"
+	},
+	{
+		"color": "green",
+		"start": "2019-09-03",
+		"end": "2019-09-03 23:00:00",
+		"id": "4000_innovEleave_leaveApplication",
+		"title": "Sheat Yee Lau"
+	}
+]
