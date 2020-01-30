@@ -214,7 +214,7 @@ class WsolCommand extends Command {
 
           const responseJson = JSON.parse(responseJsonString)
 
-          this.leaveList = responseJson
+          that.leaveList = responseJson
         }
 
         client.send('Network.continueInterceptedRequest', { interceptionId })
@@ -224,8 +224,13 @@ class WsolCommand extends Command {
 
 
       await page.waitForSelector('#fullcalendar div.fc-content-skeleton table tbody')
+      // await page.waitForSelector('#fullcalendar > div.fc-view-container > div > table > thead > tr > td')
 
-      await page.screenshot({ path: 'example.png' });
+     setTimeout(()=>{
+
+      },1000)
+
+      await page.screenshot({ path: 'wsol2.png' });
 
     } catch (e) {
       this.log(e)
