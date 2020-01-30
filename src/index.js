@@ -35,13 +35,15 @@ class WsolCommand extends Command {
 
     cli.action.stop()
 
+    if (this.leaveList) {
+      const leaveListOnDate = this.getLeaveListOn(this.leaveList, searchDate)
 
-    const leaveListOnDate = this.getLeaveListOn(this.leaveList, searchDate)
+      this.showNames(leaveListOnDate)
+    } else {
+      this.log("Srry,connection failed.")
+    }
 
-    this.showNames(leaveListOnDate)
 
-
-    this.log("")
     // this.showExecutionTime(start);
   }
 
@@ -128,7 +130,6 @@ class WsolCommand extends Command {
   }
 
   showNames(leaveList) {
-    this.log("")
     if (leaveList && leaveList.length > 0) {
       for (const [i, v] of leaveList.entries()) {
         this.log(chalk.bold.yellowBright(`${i + 1}.${v} `))
@@ -169,10 +170,6 @@ class WsolCommand extends Command {
       browser = await puppeteer.launch({ headless: !ghostMode });
       const page = await browser.newPage();
 
-      const client = await page.target().createCDPSession()
-
-      await client.send('Network.enable')
-
       await page.goto('https://workflow.innov8tif.com/jw/web/userview/appcenter/v/_/home');
 
 
@@ -199,38 +196,20 @@ class WsolCommand extends Command {
       ])
 
 
-      await client.send('Network.setRequestInterception', {
-        patterns: [
-          { urlPattern: '*', resourceType: 'XHR', interceptionStage: 'HeadersReceived' }
-        ]
-      })
-
-      client.on('Network.requestIntercepted', async ({ interceptionId, request }) => {
-
-        if (request.url.includes('CalendarMenu')) {
-          const response = await client.send('Network.getResponseBodyForInterception', { interceptionId })
-
-          const responseJsonString = response.base64Encoded ? Buffer.from(response.body, 'base64').toString() : response.body
-
-          const responseJson = JSON.parse(responseJsonString)
-
-          that.leaveList = responseJson
+      page.on('response', async response => {
+        if (response.url().includes('org.joget.CalendarMenu/service')) {
+          const json = await response.json()
+          this.leaveList = json
         }
-
-        client.send('Network.continueInterceptedRequest', { interceptionId })
       })
 
       await page.goto('https://workflow.innov8tif.com/jw/web/userview/innovEleave/app/_/leaveCalendarView')
 
+      await page.waitFor(2000)
 
-      await page.waitForSelector('#fullcalendar div.fc-content-skeleton table tbody')
-      // await page.waitForSelector('#fullcalendar > div.fc-view-container > div > table > thead > tr > td')
+      // await page.waitForSelector('#fullcalendar > div.fc-view-container > div > table > tbody > tr > td > div > div > div:nth-child(2) > div.fc-content-skeleton')
 
-     setTimeout(()=>{
-
-      },1000)
-
-      await page.screenshot({ path: 'wsol2.png' });
+      // await page.screenshot({ path: 'wsol2.png' });
 
     } catch (e) {
       this.log(e)
